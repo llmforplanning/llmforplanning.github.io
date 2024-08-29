@@ -11,7 +11,7 @@ affil: Brown University
 affil_link: https://vivo.brown.edu/display/mlittman
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: michael.png
+img: michael.jpg
 
 ---
 
