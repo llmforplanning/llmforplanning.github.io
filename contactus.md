@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Please contact <a href="mailto:tomssilver@gmail.com">tomssilver@gmail.com</a> for inquiries.
+Please contact <a href="mailto:ssreedh3@colostate.edu">ssreedh3@colostate.edu</a> for inquiries.
