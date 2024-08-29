@@ -6,7 +6,7 @@ name: Wenlong Huang
 webpage: https://wenlong.page/
 
 # Primary affiliation
-affil: Stanford (PhD Student)
+affil: Stanford
 # Link to the primary affiliation
 affil_link: https://cs.stanford.edu/
 
