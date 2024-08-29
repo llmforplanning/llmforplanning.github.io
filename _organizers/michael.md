@@ -6,7 +6,7 @@ name: Michael Katz
 webpage: https://research.ibm.com/people/michael-katz
 
 # Primary affiliation
-affil: IBM Research (Principal Research Staff Member)
+affil: IBM Research
 # Link to the primary affiliation
 affil_link: https://research.ibm.com
 
