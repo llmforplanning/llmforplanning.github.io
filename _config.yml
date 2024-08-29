@@ -22,8 +22,8 @@ title: Workshop on Planning in the Era of LLMs
 email: tomssilver@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Planning in the Era of Large Language Models.
-baseurl: "/planning-llm-workshop" # the subpath of your site, e.g. /blog
-url: "https://tomsilver.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://llmforplanning.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:
