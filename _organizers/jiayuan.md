@@ -6,7 +6,7 @@ name: Jiayuan Mao
 webpage: https://jiayuanm.com/
 
 # Primary affiliation
-affil: MIT (PhD Student)
+affil: MIT
 # Link to the primary affiliation
 affil_link: https://www.csail.mit.edu/
 
