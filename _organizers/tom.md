@@ -1,15 +1,15 @@
 ---
 # Name of the organizer
-name: Tom Silver
+name: Subbarao Kambhampati
 
 # Link to the organizer's webpage
-webpage: https://web.mit.edu/tslvr/www/
+webpage: https://rakaposhi.eas.asu.edu/
 
 # Primary affiliation
-affil: MIT (PhD Student)
+affil: Arizona State University
 # Link to the primary affiliation
-affil_link: https://www.csail.mit.edu/
+affil_link: https://search.asu.edu/profile/95646
 
 # An image of the organizer (square aspect ratio works the best) (place in the `assets/img/organizers` directory)
-img: tom.jpg
+img: rao.png
 ---
