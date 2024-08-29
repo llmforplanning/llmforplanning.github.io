@@ -6,7 +6,7 @@ name: Sarath Sreedharan
 webpage: http://sarathsreedharan.com/
 
 # Primary affiliation
-affil: Colorado State University (Assistant Professor)
+affil: Colorado State University
 # Link to the primary affiliation
 affil_link: https://www.colostate.edu/
 
