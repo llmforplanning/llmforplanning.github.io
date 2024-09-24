@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Workshop on Planning in the Era of LLMs
+title: LM4Plan: Workshop on Planning in the Era of LLMs
 layout: home
 ---
 
