@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: LM4Plan - Workshop on Planning in the Era of LLMs
+title: LM4Plan 2025 - AAAI 2025 Workshop on Planning in the Era of LLMs
 layout: home
 ---
 
@@ -48,6 +48,11 @@ On the day of the event, make sure you have a team to manage different aspects, 
 
 </details>
 
+
+### Call for Papers
+
+
+
 #### Overview
 
 <p>
@@ -68,7 +73,40 @@ On the day of the event, make sure you have a team to manage different aspects, 
         <li>Planning for LLMs.</li>
         <li>Using LLMs to develop interfaces for planning-based systems.</li>
         <li>Using LLMs as a proxy for user preferences.</li>
+  <li> Validation/verification of plans, policies, or models.</li>
+<li> Generalization in planning and generalized planning with LLMs.</li>
+<li> Using LLMs to develop interfaces for planning-related problems.</li>
+<li> Other applications of LLMs in planning.</li>
+<li> Other applications of large vision-language models (VLMs) in planning.</li>
+<li> Planning for LLMs and VLMs.</li>
 </ul>
 
-#### Call for Papers
-<p>Coming Soon!</p>
+
+
+#### Important Dates
+Paper submission deadline: **November 21th, 2024, AoE**  
+Paper acceptance notification: **December 11th, 2024, AoE**  
+
+AAAI will be in-person this year. Authors of accepted workshop papers are expected to register for the workshop, physically attend the conference and present in person.
+
+#### Submission Details
+We solicit workshop paper submissions relevant to the above call of the following types:
+
+Long papers – up to 8 pages + unlimited references / appendices
+Short papers – up to 4 pages + unlimited references / appendices
+
+Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/authorkit25) ). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main AAAI conference to the workshop.
+
+Some accepted long papers will be invited for contributed talks. All accepted papers (long as well as short) will be given a slot in the poster presentation session.
+
+
+Paper submissions should be made through [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/LM4Plan).
+
+Organizing Committee  
+Sarath Sreedharan,  Colorado State University  
+Jiayuan Mao, MIT  
+Wenlong Huang, Stanford  
+Michael Katz, IBM Research  
+Subbarao Kambhampati, Arizona State University  
+
+Please send your inquiries to [llmforplanning@gmail.com](mailto:llmforplanning@gmail.com)
