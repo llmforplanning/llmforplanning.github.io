@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: LM4Plan 2025 - AAAI 2025 Workshop on Planning in the Era of LLMs
+title: Workshop on Planning in the Era of LLMs (LM4Plan @ AAAI 2025)
 layout: home
 ---
 
