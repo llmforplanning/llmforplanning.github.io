@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Please contact <a href="mailto:lmforplanning@gmail.com">lmforplanning@gmail.com</a> for inquiries.
+Please contact <a href="mailto:llmforplanning@gmail.com">llmforplanning@gmail.com</a> for inquiries.
