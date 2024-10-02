@@ -95,7 +95,7 @@ We solicit workshop paper submissions relevant to the above call of the followin
 Long papers – up to 8 pages + unlimited references / appendices
 Short papers – up to 4 pages + unlimited references / appendices
 
-Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/authorkit25) ). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main AAAI conference to the workshop.
+Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/authorkit25) ). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main AAAI conference to the workshop. The review process will be single blind (so please include author details), however we will allow for anonymized submissions if the paper is currently under review at some other venue.
 
 Some accepted long papers will be invited for contributed talks. All accepted papers (long as well as short) will be given a slot in the poster presentation session.
 
