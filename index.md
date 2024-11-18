@@ -84,7 +84,7 @@ On the day of the event, make sure you have a team to manage different aspects, 
 
 
 #### Important Dates
-Paper submission deadline: **November 28th, 2024, AoE**  (extended)
+Paper submission deadline: **November 28th, 2024, AoE**  (extended)  
 Paper acceptance notification: **December 11th, 2024, AoE**  
 
 AAAI will be in-person this year. Authors of accepted workshop papers are expected to register for the workshop, physically attend the conference and present in person.
