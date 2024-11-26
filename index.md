@@ -67,13 +67,14 @@ On the day of the event, make sure you have a team to manage different aspects, 
 <ul>
         <li>Planning directly with pre-trained or fine-tuned LLMs.</li>
         <li>LLMs for (partial) model elicitation.</li>
+        <li>LLMs for generating structured planning problem descriptions.</li>
         <li>LLMs for search guidance or search pruning.</li>
         <li>Validation/verification of plans, policies, or models.</li> 
-        <li>Generalization in planning with LLMs.</li>
+        <!-- <li>Generalization in planning with LLMs.</li> -->
         <li>Planning for LLMs.</li>
         <li>Using LLMs to develop interfaces for planning-based systems.</li>
         <li>Using LLMs as a proxy for user preferences.</li>
-  <li> Validation/verification of plans, policies, or models.</li>
+  <!-- <li> Validation/verification of plans, policies, or models.</li> -->
 <li> Generalization in planning and generalized planning with LLMs.</li>
 <li> Using LLMs to develop interfaces for planning-related problems.</li>
 <li> Other applications of LLMs in planning.</li>
@@ -84,7 +85,7 @@ On the day of the event, make sure you have a team to manage different aspects, 
 
 
 #### Important Dates
-Paper submission deadline: **November 28th, 2024, AoE**  (extended)  
+Paper submission deadline: **November 29th, 2024, AoE**  (extended, final)  
 Paper acceptance notification: **December 11th, 2024, AoE**  
 
 AAAI will be in-person this year. Authors of accepted workshop papers are expected to register for the workshop, physically attend the conference and present in person.
@@ -95,7 +96,10 @@ We solicit workshop paper submissions relevant to the above call of the followin
 Long papers – up to 8 pages + unlimited references / appendices
 Short papers – up to 4 pages + unlimited references / appendices
 
-Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/authorkit25) ). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main AAAI conference to the workshop. The review process will be single blind (so please include author details), however we will allow for anonymized submissions if the paper is currently under review at some other venue.
+Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/authorkit25) ). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. 
+<!-- Please do not submit papers that are already accepted for the main AAAI conference to the workshop.  -->
+The review process will be single blind (so please include author details), however we will allow for anonymized submissions if the paper is currently under review at some other venue.  
+To clarify, we do not enforce anonymity for submissions and authors’ names will not be displayed on OpenReview during the review period. It is entirely up to the authors to decide whether they wish to anonymize the PDFs they submit.
 
 Some accepted long papers will be invited for contributed talks. All accepted papers (long as well as short) will be given a slot in the poster presentation session.
 
