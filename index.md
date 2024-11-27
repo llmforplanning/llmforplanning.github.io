@@ -96,15 +96,18 @@ We solicit workshop paper submissions relevant to the above call of the followin
 Long papers – up to 8 pages + unlimited references / appendices
 Short papers – up to 4 pages + unlimited references / appendices
 
-Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/authorkit25) ). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. 
-<!-- Please do not submit papers that are already accepted for the main AAAI conference to the workshop.  -->
-The review process will be single blind (so please include author details), however we will allow for anonymized submissions if the paper is currently under review at some other venue.  
-To clarify, we do not enforce anonymity for submissions and authors’ names will not be displayed on OpenReview during the review period. It is entirely up to the authors to decide whether they wish to anonymize the PDFs they submit.
-
-Some accepted long papers will be invited for contributed talks. All accepted papers (long as well as short) will be given a slot in the poster presentation session.
-
 
 Paper submissions should be made through [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/LM4Plan).
+
+The review process is single blind by default, so please include author details. If the paper is currently under review at some other venue, we do allow an anonymized submission. To clarify, we do not enforce anonymity for submissions but do support it - authors' names will not be displayed on OpenReview during the review period. It is entirely up to the authors to decide whether they wish to anonymize the PDFs they submit.  
+
+Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/authorkit25) ). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers.  
+<!-- Please do not submit papers that are already accepted for the main AAAI conference to the workshop.  -->
+<!-- The review process will be single blind (so please include author details), however we will allow for anonymized submissions if the paper is currently under review at some other venue.  
+To clarify, we do not enforce anonymity for submissions and authors’ names will not be displayed on OpenReview during the review period. It is entirely up to the authors to decide whether they wish to anonymize the PDFs they submit. -->
+
+Some accepted long papers will be invited for contributed talks. All accepted papers (long as well as short) will be given a slot in the poster presentation session.  
+
 
 Organizing Committee  
 Sarath Sreedharan,  Colorado State University  
