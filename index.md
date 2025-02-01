@@ -53,39 +53,41 @@ On the day of the event, make sure you have a team to manage different aspects, 
 * Venue: AAAI’25 Workshop, Pennsylvania Convention Center, Philadelphia, Pennsylvania, USA  
 * Date: March 3, 2025
 
-
-### List of accepted papers (titles, no author info)
+### List of papers accepted as orals (titles, no author info)
 * A Roadmap to Guide the Integration of LLMs in Hierarchical Planning
 * ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning
 * ACPBench: Reasoning about Action, Change, and Planning
+* Bootstrapping Object-level Planning with Large Language Models
+* Conversational Goal-Conflict Explanations in Planning via Multi-Agent LLMs
+* Creating PDDL Models from Javascript using LLMs: Preliminary Results
+* Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation
+* Learning to Reason with Transformers via Search Inductive Biases: A Proposal
+* Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts
+* Predicate Invention from Pixels via Pretrained Vision-Language Models
+* S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models
+* Transition Function Prediction in AI Planning Using LLMs
+
+
+### List of accepted papers as posters (titles, no author info)
 * Adaptive Iterative Feedback Prompting for Obstacle-Aware Path Planning via LLMs
 * APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents
 * Benchmark Real-time Adaptation and Communication Capabilities of Embodied Agent in Collaborative Scenarios
-* Bootstrapping Object-level Planning with Large Language Models
 * CAPTAIN: Continuous Automated Planning Through Autonomous Internet Navigation
-* Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation
-* Conversational Goal-Conflict Explanations in Planning via Multi-Agent LLMs
-* Creating PDDL Models from Javascript using LLMs: Preliminary Results
 * CSG-Driver: Common Sense Guided Autonomous Driving under Legal Compliance and Practical Flexibility in Dilemma Situations
 * DKPROMPT: Domain Knowledge Prompting Vision-Language Models for Open-World Planning
 * Evaluating the Meta- and Object-Level Reasoning of Large Language Models for Question Answering
 * Factored State Sampling
 * Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models
-* Learning to Reason with Transformers via Search Inductive Biases: A Proposal
 * Leveraging Large Language Models for Automated Planning and Model Construction: A Survey
 * Leveraging LLMs for Generating Document-Informed Hierarchical Planning Models: A Proposal
 * Look Further Ahead: Testing the Limits of GPT-4 in Path Planning
 * Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Planning Case Study
 * Planning AI Assistant for Emergency Decision-Making (PlanAID): Framing Planning Problems and Assessing Plans with Large Language Models
-* Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts
 * Planning with Vision-Language Models and a Use Case in Robot-Assisted Teaching
-* Predicate Invention from Pixels via Pretrained Vision-Language Models
-* S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models
 * SFF Rendering-Based Uncertainty Prediction using VisionLLM
 * Starjob: Dataset for LLM-Driven Job Shop Scheduling
 * Towards Siloed LLM-based Systems for Mission-critical Planning
 * Towards Zero-Shot, Controllable Dialog Planning with LLMs
-* Transition Function Prediction in AI Planning Using LLMs
 
 
 <br>
