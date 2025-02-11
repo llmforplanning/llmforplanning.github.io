@@ -51,7 +51,8 @@ On the day of the event, make sure you have a team to manage different aspects, 
 ### Workshop Details
 
 * Venue: AAAI’25 Workshop, Pennsylvania Convention Center, Philadelphia, Pennsylvania, USA  
-* Date: March 3, 2025
+* Date: March 3, 2025  
+* Location: Room 117
 
 ### List of papers accepted as orals (titles, no author info)
 * A Roadmap to Guide the Integration of LLMs in Hierarchical Planning
