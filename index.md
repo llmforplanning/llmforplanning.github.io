@@ -69,6 +69,7 @@ On the day of the event, make sure you have a team to manage different aspects, 
 
 
 ### List of accepted papers as posters (titles, no author info)
+* A Critical Assessment of LLMs for Solving Multi-Step Problems: Preliminary Results
 * Adaptive Iterative Feedback Prompting for Obstacle-Aware Path Planning via LLMs
 * APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents
 * Benchmark Real-time Adaptation and Communication Capabilities of Embodied Agent in Collaborative Scenarios
