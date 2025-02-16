@@ -11,7 +11,7 @@ affil:  Queen's University
 affil_link: https://www.cs.queensu.ca/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: michael.jpg
+img: christian.jpg
 
 ---
 
