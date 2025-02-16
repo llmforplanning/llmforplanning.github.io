@@ -69,8 +69,33 @@ On the day of the event, make sure you have a team to manage different aspects, 
 * Transition Function Prediction in AI Planning Using LLMs
 
 
-### List of accepted papers as posters (titles, no author info)
+### List of accepted papers as posters (titles, no author info), split into two sessions
+#### Poster session I
+* Adaptive Iterative Feedback Prompting for Obstacle-Aware Path Planning via LLMs
+* APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents
+* Benchmark Real-time Adaptation and Communication Capabilities of Embodied Agent in Collaborative Scenarios
+* CAPTAIN: Continuous Automated Planning Through Autonomous Internet Navigation
+* DKPROMPT: Domain Knowledge Prompting Vision-Language Models for Open-World Planning
+* Factored State Sampling
+* Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models
+* Look Further Ahead: Testing the Limits of GPT-4 in Path Planning
+* Planning with Vision-Language Models and a Use Case in Robot-Assisted Teaching
+* SFF Rendering-Based Uncertainty Prediction using VisionLLM
+
+#### Poster session II
 * A Critical Assessment of LLMs for Solving Multi-Step Problems: Preliminary Results
+* CSG-Driver: Common Sense Guided Autonomous Driving under Legal Compliance and Practical Flexibility in Dilemma Situations
+* Evaluating the Meta- and Object-Level Reasoning of Large Language Models for Question Answering
+* Leveraging Large Language Models for Automated Planning and Model Construction: A Survey
+* Leveraging LLMs for Generating Document-Informed Hierarchical Planning Models: A Proposal
+* Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Planning Case Study
+* Planning AI Assistant for Emergency Decision-Making (PlanAID): Framing Planning Problems and Assessing Plans with Large Language Models
+* Starjob: Dataset for LLM-Driven Job Shop Scheduling
+* Towards Siloed LLM-based Systems for Mission-critical Planning
+* Towards Zero-Shot, Controllable Dialog Planning with LLMs
+
+
+<!-- * A Critical Assessment of LLMs for Solving Multi-Step Problems: Preliminary Results
 * Adaptive Iterative Feedback Prompting for Obstacle-Aware Path Planning via LLMs
 * APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents
 * Benchmark Real-time Adaptation and Communication Capabilities of Embodied Agent in Collaborative Scenarios
@@ -89,7 +114,7 @@ On the day of the event, make sure you have a team to manage different aspects, 
 * SFF Rendering-Based Uncertainty Prediction using VisionLLM
 * Starjob: Dataset for LLM-Driven Job Shop Scheduling
 * Towards Siloed LLM-based Systems for Mission-critical Planning
-* Towards Zero-Shot, Controllable Dialog Planning with LLMs
+* Towards Zero-Shot, Controllable Dialog Planning with LLMs -->
 
 
 <br>
