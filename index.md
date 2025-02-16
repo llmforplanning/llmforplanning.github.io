@@ -54,6 +54,36 @@ On the day of the event, make sure you have a team to manage different aspects, 
 * Date: March 3, 2025  
 * Location: Room 117
 
+
+### Preliminary Schedule
+
+|Start time	|	End time | Agenda Item | Title |
+|:----------|:---------|:------------|:------|
+|9:00	|	9:05	|	Opening remarks	|		|	  
+|9:05	|	9:50	|	Invited talk	|	Speaker: Manling Li, Title: From Large Language Models to Large Agent Models: MDP formulation of Agent Training	|	  
+|9:50	|	9:58	|	paper talk	|	Predicate Invention from Pixels via Pretrained Vision-Language Models	|	  
+|9:58	|	10:06	|	paper talk	|	S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models	|	  
+|10:06	|	10:14	|	paper talk	|	Transition Function Prediction in AI Planning Using LLMs	|	  
+|10:14	|	10:22	|	paper talk	|	Creating PDDL Models from Javascript using LLMs: Preliminary Results	|	  
+|10:22	|	10:30	|	paper talk	|	Bootstrapping Object-level Planning with Large Language Models	|	  
+|10:30	|	11:00	|	Coffee	|		||	  
+|11:00	|	11:45	|	Invited talk	|	Speaker: Christian Muise, Title: TBD|  
+|11:45	|	11:53	|	paper talk	|	Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts	|	  
+|11:53	|	12:01	|	paper talk	|	Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation	|	  
+|12:01	|	12:30	|	Posters| Session I		|	  
+|12:30	|	14:00	|	Lunch	|		||	  
+|14:00	|	14:30	|	Posters| Session II		|	  
+|14:30	|	15:15	|	Invited talk	|	Speaker: Shuang Li, Title: TBD	|	  
+|15:15	|	15:23	|	paper talk	|	ACPBench: Reasoning about Action, Change, and Planning	|	  
+|15:23	|	15:31	|	paper talk	|	ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning	|	  
+|15:31	|	16:00	|	Coffee	|		|
+|16:00	|	16:08	|	paper talk	|	Learning to Reason with Transformers via Search Inductive Biases: A Proposal	|	  
+|16:08	|	16:16	|	paper talk	|	A Roadmap to Guide the Integration of LLMs in Hierarchical Planning	|	  
+|16:16	|	16:24	|	paper talk	|	Conversational Goal-Conflict Explanations in Planning via Multi-Agent LLMs	|	  
+|16:24	|	17:00	|	Panel	|	Moderator: Christian Muise. Panelists: TBD	|
+
+
+
 ### List of papers accepted as orals (titles, no author info)
 * A Roadmap to Guide the Integration of LLMs in Hierarchical Planning
 * ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning
