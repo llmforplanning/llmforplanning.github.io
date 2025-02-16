@@ -67,13 +67,13 @@ On the day of the event, make sure you have a team to manage different aspects, 
 |10:14	|	10:22	|	paper talk	|	Creating PDDL Models from Javascript using LLMs: Preliminary Results	|	  
 |10:22	|	10:30	|	paper talk	|	Bootstrapping Object-level Planning with Large Language Models	|	  
 |10:30	|	11:00	|	Coffee	|		||	  
-|11:00	|	11:45	|	Invited talk	|	Speaker: Christian Muise, Title: TBD|  
+|11:00	|	11:45	|	Invited talk	|	Speaker: Christian Muise, Title: What model understanding can do in our quest to bridge planning and natural language|  
 |11:45	|	11:53	|	paper talk	|	Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts	|	  
 |11:53	|	12:01	|	paper talk	|	Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation	|	  
 |12:01	|	12:30	|	Posters| Session I		|	  
 |12:30	|	14:00	|	Lunch	|		||	  
 |14:00	|	14:30	|	Posters| Session II		|	  
-|14:30	|	15:15	|	Invited talk	|	Speaker: Shuang Li, Title: TBD	|	  
+|14:30	|	15:15	|	Invited talk	|	Speaker: Shuang Li, Title: How Vision and Language Models Are Changing Decision-Making	|	  
 |15:15	|	15:23	|	paper talk	|	ACPBench: Reasoning about Action, Change, and Planning	|	  
 |15:23	|	15:31	|	paper talk	|	ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning	|	  
 |15:31	|	16:00	|	Coffee	|		|
