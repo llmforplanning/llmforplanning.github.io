@@ -67,20 +67,20 @@ On the day of the event, make sure you have a team to manage different aspects, 
 |10:14	|	10:22	|	paper talk	|	Creating PDDL Models from Javascript using LLMs: Preliminary Results	|	  
 |10:22	|	10:30	|	paper talk	|	Bootstrapping Object-level Planning with Large Language Models	|	  
 |10:30	|	11:00	|	Coffee	|		||	  
-|11:00	|	11:45	|	Posters Session I	| Starts during the coffee break	|
+|11:00	|	11:45	|	[Posters Session I](#poster-session-i)	| Starts during the coffee break	|
 |11:45	|	12:30	|	Invited talk	|	Speaker: Christian Muise, Title: What model understanding can do in our quest to bridge planning and natural language|  
 |12:30	|	14:00	|	Lunch	|		||	  
 |14:00	|	14:45	|	Invited talk	|	Speaker: Shuang Li, Title: How Vision and Language Models Are Changing Decision-Making	|	  
-|14:45	|	15:30	|	Posters Session II	|	|
+|14:45	|	15:30	|	[Posters Session II](#poster-session-ii)	| Continues into the coffee break	|
 |15:30	|	16:00	|	Coffee	|		|
-|16:00	|	16:08	|	paper talk	|	Learning to Reason with Transformers via Search Inductive Biases: A Proposal	|	  
-|16:08	|	16:16	|	paper talk	|	A Roadmap to Guide the Integration of LLMs in Hierarchical Planning	|	  
+|16:00	|	16:08	|	paper talk	|	ACPBench: Reasoning about Action, Change, and Planning	|	  
+|16:08	|	16:16	|	paper talk	|	ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning	|	  
 |16:16	|	16:24	|	paper talk	|	Conversational Goal-Conflict Explanations in Planning via Multi-Agent LLMs	|	  
 |16:24	|	16:32	|	paper talk	|	Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts	|	  
 |16:32	|	16:40	|	paper talk	|	Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation	|	  
-|16:40	|	16:48	|	paper talk	|	ACPBench: Reasoning about Action, Change, and Planning	|	  
-|16:48	|	16:56	|	paper talk	|	ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning	|	  
-|16:56	|	18:00	|	Panel	|	Moderator: Christian Muise. Panelists: TBD	|
+|16:40	|	16:48	|	paper talk	|	Learning to Reason with Transformers via Search Inductive Biases: A Proposal		|	  
+|16:48	|	16:56	|	paper talk	|	A Roadmap to Guide the Integration of LLMs in Hierarchical Planning	|	  
+|17:00	|	18:00	|	Panel	|	Moderator: Christian Muise. 	|
 
 
 
