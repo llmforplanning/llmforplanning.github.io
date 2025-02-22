@@ -51,8 +51,10 @@ On the day of the event, make sure you have a team to manage different aspects, 
 ### Workshop Details
 
 * Venue: AAAI’25 Workshop, Pennsylvania Convention Center, Philadelphia, Pennsylvania, USA  
-* Date: March 3, 2025  
+* Date: March 3, 2025, 9am - 6pm.
 * Location: Room 117
+* Slides upload link (orals): [https://aaai-25-slides-upload.paperform.co/](https://aaai-25-slides-upload.paperform.co/)
+* Posters dimensions: up to 30"x40", either portrait or landscape. 
 
 
 ### Preliminary Schedule
