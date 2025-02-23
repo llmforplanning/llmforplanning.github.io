@@ -67,7 +67,7 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 |Start time	|	End time | Agenda Item | Title |
 |:----------|:---------|:------------|:------|
 |9:00	|	9:05	|	Opening remarks	|		|	  
-|9:05	|	9:50	|	Invited talk	|	Speaker: Manling Li, Title: From Large Language Models to Large Agent Models: MDP formulation of Agent Training	|	  
+|9:05	|	9:50	|	Invited talk	|	[Speaker: Manling Li, Title: From Large Language Models to Large Agent Models: MDP formulation of Agent Training](https://llmforplanning.github.io/speakers/)	|	  
 |9:50	|	9:58	|	paper talk	|	[Predicate Invention from Pixels via Pretrained Vision-Language Models](https://openreview.net/pdf?id=YwwRffI6UT)	|	  
 |9:58	|	10:06	|	paper talk	|	[S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models](https://openreview.net/pdf?id=RKfBy2wlST)	|	  
 |10:06	|	10:14	|	paper talk	|	[Transition Function Prediction in AI Planning Using LLMs](https://openreview.net/pdf?id=SPRYlWKaPj)	|	  
@@ -75,9 +75,9 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 |10:22	|	10:30	|	paper talk	|	[Bootstrapping Object-level Planning with Large Language Models](https://openreview.net/pdf?id=XNCKQNvUvg)	|	  
 |10:30	|	11:00	|	Coffee	|		||	  
 |11:00	|	11:45	|	Posters | [Posters Session I](#poster-session-i) starts during the coffee break	|
-|11:45	|	12:30	|	Invited talk	|	Speaker: Christian Muise, Title: What model understanding can do in our quest to bridge planning and natural language|  
+|11:45	|	12:30	|	Invited talk	|	[Speaker: Christian Muise, Title: What model understanding can do in our quest to bridge planning and natural language](https://llmforplanning.github.io/speakers/)|  
 |12:30	|	14:00	|	Lunch	|		||	  
-|14:00	|	14:45	|	Invited talk	|	Speaker: Shuang Li, Title: How Vision and Language Models Are Changing Decision-Making	|	  
+|14:00	|	14:45	|	Invited talk	|	[Speaker: Shuang Li, Title: How Vision and Language Models Are Changing Decision-Making](https://llmforplanning.github.io/speakers/)	|	  
 |14:45	|	15:30	|	Posters	| [Posters Session II](#poster-session-ii) continues into the coffee break	|
 |15:30	|	16:00	|	Coffee	|		|
 |16:00	|	16:08	|	paper talk	|	[ACPBench: Reasoning about Action, Change, and Planning](https://openreview.net/pdf?id=vJHK763QuB)	|	  
