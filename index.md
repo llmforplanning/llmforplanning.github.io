@@ -68,25 +68,25 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 |:----------|:---------|:------------|:------|
 |9:00	|	9:05	|	Opening remarks	|		|	  
 |9:05	|	9:50	|	Invited talk	|	Speaker: Manling Li, Title: From Large Language Models to Large Agent Models: MDP formulation of Agent Training	|	  
-|9:50	|	9:58	|	paper talk	|	Predicate Invention from Pixels via Pretrained Vision-Language Models	|	  
-|9:58	|	10:06	|	paper talk	|	S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models	|	  
-|10:06	|	10:14	|	paper talk	|	Transition Function Prediction in AI Planning Using LLMs	|	  
-|10:14	|	10:22	|	paper talk	|	Creating PDDL Models from Javascript using LLMs: Preliminary Results	|	  
-|10:22	|	10:30	|	paper talk	|	Bootstrapping Object-level Planning with Large Language Models	|	  
+|9:50	|	9:58	|	paper talk	|	[Predicate Invention from Pixels via Pretrained Vision-Language Models](https://openreview.net/pdf?id=YwwRffI6UT)	|	  
+|9:58	|	10:06	|	paper talk	|	[S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models](https://openreview.net/pdf?id=RKfBy2wlST)	|	  
+|10:06	|	10:14	|	paper talk	|	[Transition Function Prediction in AI Planning Using LLMs](https://openreview.net/pdf?id=SPRYlWKaPj)	|	  
+|10:14	|	10:22	|	paper talk	|	[Creating PDDL Models from Javascript using LLMs: Preliminary Results](https://openreview.net/pdf?id=VyTxXSPmbE)	|	  
+|10:22	|	10:30	|	paper talk	|	[Bootstrapping Object-level Planning with Large Language Models](https://openreview.net/pdf?id=XNCKQNvUvg)	|	  
 |10:30	|	11:00	|	Coffee	|		||	  
-|11:00	|	11:45	|	[Posters Session I](#poster-session-i)	| Starts during the coffee break	|
+|11:00	|	11:45	|	Posters | [Posters Session I](#poster-session-i) starts during the coffee break	|
 |11:45	|	12:30	|	Invited talk	|	Speaker: Christian Muise, Title: What model understanding can do in our quest to bridge planning and natural language|  
 |12:30	|	14:00	|	Lunch	|		||	  
 |14:00	|	14:45	|	Invited talk	|	Speaker: Shuang Li, Title: How Vision and Language Models Are Changing Decision-Making	|	  
-|14:45	|	15:30	|	[Posters Session II](#poster-session-ii)	| Continues into the coffee break	|
+|14:45	|	15:30	|	Posters	| [Posters Session II](#poster-session-ii) continues into the coffee break	|
 |15:30	|	16:00	|	Coffee	|		|
-|16:00	|	16:08	|	paper talk	|	ACPBench: Reasoning about Action, Change, and Planning	|	  
-|16:08	|	16:16	|	paper talk	|	ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning	|	  
-|16:16	|	16:24	|	paper talk	|	Conversational Goal-Conflict Explanations in Planning via Multi-Agent LLMs	|	  
-|16:24	|	16:32	|	paper talk	|	Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts	|	  
-|16:32	|	16:40	|	paper talk	|	Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation	|	  
-|16:40	|	16:48	|	paper talk	|	Learning to Reason with Transformers via Search Inductive Biases: A Proposal		|	  
-|16:48	|	16:56	|	paper talk	|	A Roadmap to Guide the Integration of LLMs in Hierarchical Planning	|	  
+|16:00	|	16:08	|	paper talk	|	[ACPBench: Reasoning about Action, Change, and Planning](https://openreview.net/pdf?id=vJHK763QuB)	|	  
+|16:08	|	16:16	|	paper talk	|	[ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning](https://openreview.net/pdf?id=cfsVixNuJw)	|	  
+|16:16	|	16:24	|	paper talk	|	[Conversational Goal-Conflict Explanations in Planning via Multi-Agent LLMs](https://openreview.net/pdf?id=Ys875Rgl4o)	|	  
+|16:24	|	16:32	|	paper talk	|	[Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts](https://openreview.net/pdf?id=AC92QO2TjA)	|	  
+|16:32	|	16:40	|	paper talk	|	[Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation](https://openreview.net/pdf?id=sPEU215XzS)	|	  
+|16:40	|	16:48	|	paper talk	|	[Learning to Reason with Transformers via Search Inductive Biases: A Proposal](https://openreview.net/pdf?id=Wg7JuJtw9M)		|	  
+|16:48	|	16:56	|	paper talk	|	[A Roadmap to Guide the Integration of LLMs in Hierarchical Planning](https://openreview.net/pdf?id=q3XpgsgwXX)	|	  
 |17:00	|	18:00	|	Panel	|	Moderator: Christian Muise. 	|
 
 
