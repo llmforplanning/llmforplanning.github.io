@@ -157,7 +157,7 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 * [A Critical Assessment of LLMs for Solving Multi-step Problems: Preliminary Results](https://openreview.net/pdf?id=kFrqoVtMIy)
 * [CSG-Driver: Common Sense Guided Autonomous Driving under Legal Compliance and Practical Flexibility in Dilemma Situations](https://openreview.net/pdf?id=E3swRac5qu)
 * [Evaluating the Meta- and Object-Level Reasoning of Large Language Models for Question Answering](https://openreview.net/pdf?id=0mwBpOBBPR)
-* [Leveraging Large Language Models for Automated Planning and Model Construction: A Survey](https://openreview.net/pdf?id=ebJIJkQjcE)
+* [LLMs as Planning Modelers: A Survey for Leveraging Large Language Models to Construct Automated Planning Models](https://openreview.net/pdf?id=ebJIJkQjcE)
 * [Leveraging LLMs for Generating Document-Informed Hierarchical Planning Models: A Proposal](https://openreview.net/pdf?id=QQltS3Nxj9)
 * [Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Planning Case Study](https://openreview.net/pdf?id=nQ0LC1bdlU)
 * [Planning AI Assistant for Emergency Decision-Making (PlanAID): Framing Planning Problems and Assessing Plans with Large Language Models](https://openreview.net/pdf?id=LebubIfqae)
