@@ -47,6 +47,7 @@ On the day of the event, make sure you have a team to manage different aspects, 
 <br><br>Remember to document the proceedings and share them with participants afterward, and perhaps consider publishing a summary or report to reach a wider audience and contribute to the field.
 
 </details>
+
 ### Accepted Papers
 
 You should be able to view all accepted papers [here](https://openreview.net/group?id=AAAI.org/2025/Workshop/LM4Plan#tab-accept)
