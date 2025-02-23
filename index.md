@@ -92,7 +92,7 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 
 
 ### List of papers accepted as orals (titles, no author info)
-* A Roadmap to Guide the Integration of LLMs in Hierarchical Planning
+<!-- * A Roadmap to Guide the Integration of LLMs in Hierarchical Planning
 * ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning
 * ACPBench: Reasoning about Action, Change, and Planning
 * Bootstrapping Object-level Planning with Large Language Models
@@ -104,11 +104,23 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 * Predicate Invention from Pixels via Pretrained Vision-Language Models
 * S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models
 * Transition Function Prediction in AI Planning Using LLMs
-
+ -->
+* [A Roadmap to Guide the Integration of LLMs in Hierarchical Planning](https://openreview.net/pdf?id=q3XpgsgwXX)
+* [ACPBench Hard: Unrestrained Reasoning about Action, Change, and Planning](https://openreview.net/pdf?id=cfsVixNuJw)
+* [ACPBench: Reasoning about Action, Change, and Planning](https://openreview.net/pdf?id=vJHK763QuB)
+* [Bootstrapping Object-level Planning with Large Language Models](https://openreview.net/pdf?id=XNCKQNvUvg)
+* [Conversational Goal-Conflict Explanations in Planning via Multi-Agent LLMs](https://openreview.net/pdf?id=Ys875Rgl4o)
+* [Creating PDDL Models from Javascript using LLMs: Preliminary Results](https://openreview.net/pdf?id=VyTxXSPmbE)
+* [Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation](https://openreview.net/pdf?id=sPEU215XzS)
+* [Learning to Reason with Transformers via Search Inductive Biases: A Proposal](https://openreview.net/pdf?id=Wg7JuJtw9M)
+* [Planning in the Dark: LLM-Symbolic Planning Pipeline without Experts](https://openreview.net/pdf?id=AC92QO2TjA)
+* [Predicate Invention from Pixels via Pretrained Vision-Language Models](https://openreview.net/pdf?id=YwwRffI6UT)
+* [S3E: Semantic Symbolic State Estimation With Vision-Language Foundation Models](https://openreview.net/pdf?id=RKfBy2wlST)
+* [Transition Function Prediction in AI Planning Using LLMs](https://openreview.net/pdf?id=SPRYlWKaPj)
 
 ### List of accepted papers as posters (titles, no author info), split into two sessions
 #### Poster session I
-* Adaptive Iterative Feedback Prompting for Obstacle-Aware Path Planning via LLMs
+<!-- * Adaptive Iterative Feedback Prompting for Obstacle-Aware Path Planning via LLMs
 * APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents
 * Benchmark Real-time Adaptation and Communication Capabilities of Embodied Agent in Collaborative Scenarios
 * CAPTAIN: Continuous Automated Planning Through Autonomous Internet Navigation
@@ -117,10 +129,21 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 * Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models
 * Look Further Ahead: Testing the Limits of GPT-4 in Path Planning
 * Planning with Vision-Language Models and a Use Case in Robot-Assisted Teaching
-* SFF Rendering-Based Uncertainty Prediction using VisionLLM
+* SFF Rendering-Based Uncertainty Prediction using VisionLLM 
+-->
+* [Adaptive Iterative Feedback Prompting for Obstacle-Aware Path Planning via LLMs](https://openreview.net/pdf?id=M4rLudFbT2)
+* [APT: Architectural Planning and Text-to-Blueprint Construction Using Large Language Models for Open-World Agents](https://openreview.net/pdf?id=PCE0vO1sZx)
+* [Benchmark Real-time Adaptation and Communication Capabilities of Embodied Agent in Collaborative Scenarios](https://openreview.net/pdf?id=FgYVFY6HmV)
+* [CAPTAIN: Continuous Automated Planning Through Autonomous Internet Navigation](https://openreview.net/pdf?id=OkvQyqv9H5)
+* [DKPROMPT: Domain Knowledge Prompting Vision-Language Models for Open-World Planning](https://openreview.net/pdf?id=ANXjmdDQyV)
+* [Factored State Sampling](https://openreview.net/pdf?id=n1R3V9CvWE)
+* [Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models](https://openreview.net/pdf?id=kF8agkutXD)
+* [Look Further Ahead: Testing the Limits of GPT-4 in Path Planning](https://openreview.net/pdf?id=ElapCti3nn)
+* [Planning with Vision-Language Models and a Use Case in Robot-Assisted Teaching](https://openreview.net/pdf?id=l2pA2WDB3r)
+* [SFF Rendering-Based Uncertainty Prediction using VisionLLM](https://openreview.net/pdf?id=q8ptjh1pDl)
 
 #### Poster session II
-* A Critical Assessment of LLMs for Solving Multi-Step Problems: Preliminary Results
+<!-- * A Critical Assessment of LLMs for Solving Multi-Step Problems: Preliminary Results
 * CSG-Driver: Common Sense Guided Autonomous Driving under Legal Compliance and Practical Flexibility in Dilemma Situations
 * Evaluating the Meta- and Object-Level Reasoning of Large Language Models for Question Answering
 * Leveraging Large Language Models for Automated Planning and Model Construction: A Survey
@@ -129,7 +152,18 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 * Planning AI Assistant for Emergency Decision-Making (PlanAID): Framing Planning Problems and Assessing Plans with Large Language Models
 * Starjob: Dataset for LLM-Driven Job Shop Scheduling
 * Towards Siloed LLM-based Systems for Mission-critical Planning
-* Towards Zero-Shot, Controllable Dialog Planning with LLMs
+* Towards Zero-Shot, Controllable Dialog Planning with LLMs 
+-->
+* [A Critical Assessment of LLMs for Solving Multi-step Problems: Preliminary Results](https://openreview.net/pdf?id=kFrqoVtMIy)
+* [CSG-Driver: Common Sense Guided Autonomous Driving under Legal Compliance and Practical Flexibility in Dilemma Situations](https://openreview.net/pdf?id=E3swRac5qu)
+* [Evaluating the Meta- and Object-Level Reasoning of Large Language Models for Question Answering](https://openreview.net/pdf?id=0mwBpOBBPR)
+* [Leveraging Large Language Models for Automated Planning and Model Construction: A Survey](https://openreview.net/pdf?id=ebJIJkQjcE)
+* [Leveraging LLMs for Generating Document-Informed Hierarchical Planning Models: A Proposal](https://openreview.net/pdf?id=QQltS3Nxj9)
+* [Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Planning Case Study](https://openreview.net/pdf?id=nQ0LC1bdlU)
+* [Planning AI Assistant for Emergency Decision-Making (PlanAID): Framing Planning Problems and Assessing Plans with Large Language Models](https://openreview.net/pdf?id=LebubIfqae)
+* [Starjob: Dataset for LLM-Driven Job Shop Scheduling](https://openreview.net/pdf?id=0oSusu9nE6)
+* [Towards Siloed LLM-based Systems for Mission-critical Planning](https://openreview.net/pdf?id=JElL1aUprz)
+* [Towards Zero-Shot, Controllable Dialog Planning with LLMs](https://openreview.net/pdf?id=nnXfQvOWpQ)
 
 
 <!-- * A Critical Assessment of LLMs for Solving Multi-Step Problems: Preliminary Results
