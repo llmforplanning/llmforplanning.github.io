@@ -64,8 +64,8 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 
 ### Preliminary Schedule
 
-|Start time	|	End time | Agenda Item | Title |
-|:----------|:---------|:------------|:------|
+|Start time	|	End time | Agenda Item | Title |  
+|:----------|:---------|:------------|:------|  
 |9:00	|	9:05	|	Opening remarks	|		|	  
 |9:05	|	9:50	|	Invited talk	|	[Speaker: Manling Li, Title: From Large Language Models to Large Agent Models: MDP formulation of Agent Training](https://llmforplanning.github.io/speakers/)	|	  
 |9:50	|	9:58	|	paper talk	|	[Predicate Invention from Pixels via Pretrained Vision-Language Models](https://openreview.net/pdf?id=YwwRffI6UT)	|	  
