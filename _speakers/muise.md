@@ -22,8 +22,6 @@ img: christian.jpg
 **Bio**: 
 Christian Muise is an Assistant Professor in the School of Computing at Queen’s University. He is a member of the Ingenuity Labs at Queen’s University, an active Scotiabank Scholar with the Scotiabank Centre for Customer Analytics, and a Faculty Affiliate with the Vector Institute for Artificial Intelligence. Dr. Muise’ area of focus is on the understanding and modelling of sequential decision making problems, with a focus on model acquisition from structured time series data and unstructured sources such as natural language and images.
 
-
-
-
-
+**Abstract**:
+LLM’s have proven themselves to be incredibly adept at converting content from one representation to another. At the same time, they’ve seriously struggled to auto-complete their way through complex planning tasks in unseen domains. To that end, there is a growing trend to bridge natural language and planning solutions through the intermediate Planning Domain Definition Language (PDDL). This talk details some of the recent work the Mu Lab has conducted that focuses on going between natural language and PDDL, in either direction, using the field’s seasoned understanding of how planning models are built. In particular, we’ll cover (1) a new framework for creating NL -> PDDL pipelines; (2) a paradigm for using planning techniques to create narratives; and (3) a new project that explores how planning models can be extracted from existing narratives.
 
