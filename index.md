@@ -138,8 +138,8 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 * [DKPROMPT: Domain Knowledge Prompting Vision-Language Models for Open-World Planning](https://openreview.net/pdf?id=ANXjmdDQyV)
 * [Factored State Sampling](https://openreview.net/pdf?id=n1R3V9CvWE)
 * [Language and Planning in Robotic Navigation: A Multilingual Evaluation of State-of-the-Art Models](https://openreview.net/pdf?id=kF8agkutXD)
+* [Leveraging LLMs for Generating Document-Informed Hierarchical Planning Models: A Proposal](https://openreview.net/pdf?id=QQltS3Nxj9)
 * [Look Further Ahead: Testing the Limits of GPT-4 in Path Planning](https://openreview.net/pdf?id=ElapCti3nn)
-* [Planning with Vision-Language Models and a Use Case in Robot-Assisted Teaching](https://openreview.net/pdf?id=l2pA2WDB3r)
 * [SFF Rendering-Based Uncertainty Prediction using VisionLLM](https://openreview.net/pdf?id=q8ptjh1pDl)
 
 #### Poster session II
@@ -158,9 +158,9 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 * [CSG-Driver: Common Sense Guided Autonomous Driving under Legal Compliance and Practical Flexibility in Dilemma Situations](https://openreview.net/pdf?id=E3swRac5qu)
 * [Evaluating the Meta- and Object-Level Reasoning of Large Language Models for Question Answering](https://openreview.net/pdf?id=0mwBpOBBPR)
 * [LLMs as Planning Modelers: A Survey for Leveraging Large Language Models to Construct Automated Planning Models](https://openreview.net/pdf?id=ebJIJkQjcE)
-* [Leveraging LLMs for Generating Document-Informed Hierarchical Planning Models: A Proposal](https://openreview.net/pdf?id=QQltS3Nxj9)
 * [Mutual Enhancement of Large Language and Reinforcement Learning Models through Bi-Directional Feedback Mechanisms: A Planning Case Study](https://openreview.net/pdf?id=nQ0LC1bdlU)
 * [Planning AI Assistant for Emergency Decision-Making (PlanAID): Framing Planning Problems and Assessing Plans with Large Language Models](https://openreview.net/pdf?id=LebubIfqae)
+* [Planning with Vision-Language Models and a Use Case in Robot-Assisted Teaching](https://openreview.net/pdf?id=l2pA2WDB3r)
 * [Starjob: Dataset for LLM-Driven Job Shop Scheduling](https://openreview.net/pdf?id=0oSusu9nE6)
 * [Towards Siloed LLM-based Systems for Mission-critical Planning](https://openreview.net/pdf?id=JElL1aUprz)
 * [Towards Zero-Shot, Controllable Dialog Planning with LLMs](https://openreview.net/pdf?id=nnXfQvOWpQ)
