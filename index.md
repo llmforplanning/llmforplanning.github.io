@@ -87,7 +87,7 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 |16:32	|	16:40	|	paper talk	|	[Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation](https://openreview.net/pdf?id=sPEU215XzS)	|	  
 |16:40	|	16:48	|	paper talk	|	[Learning to Reason with Transformers via Search Inductive Biases: A Proposal](https://openreview.net/pdf?id=Wg7JuJtw9M)		|	  
 |16:48	|	16:56	|	paper talk	|	[A Roadmap to Guide the Integration of LLMs in Hierarchical Planning](https://openreview.net/pdf?id=q3XpgsgwXX)	|	  
-|17:00	|	18:00	|	Panel	|	Moderator: Christian Muise. 	|
+|17:00	|	18:00	|	Panel	|	On the Pitfalls and Potential for Planning in the Era of LLMs.  Moderator: Christian Muise.  Panelists: Manling Li, Michael L. Littman, Mark "mak" Roberts, Gal A. Kaminka, Michael Katz. |
 
 
 
