@@ -188,12 +188,41 @@ You should be able to view all accepted papers [here](https://openreview.net/gro
 * Towards Zero-Shot, Controllable Dialog Planning with LLMs -->
 
 
+#### Reviewers
+
+|Name	|	Affilitation |  
+|:----------|:---------|  
+|Stefan Edelkamp|AIC FEL CTU Prague|
+|Vicenç Gomez|Universitat Pompeu Fabra|
+|Morgan Fine-Morris|US Naval Research Lab|
+|Sarah Keren|Technion|
+|Hector Palacios|ServiceNow|
+|Shirin Sohrabi|International Business Machines|
+|Christian Muise|Queens University|
+|Nishanth Kumar|NVIDIA|
+|Leslie N. Smith|U. S. Naval Research Laboratory|
+|Tom Silver|Princeton University|
+|Xiaolin Fang|Massachusetts Institute of Technology|
+|Jörg Hoffmann|Saarland University|
+|Rebecca Eifler|Saarland University|
+|Daniel Fišer|Aalborg University|
+|Nir Lipovetzky|The University of Melbourne|
+|Jakob Thumm|Technische Universität München|
+|Mak Roberts|U. S. Naval Research Laboratory|
+|Karthik Valmeekam|Arizona State University|
+|Tyler D Comisky|Naval Air Warfare Center Aircraft Division|
+|Dillon Ze Chen|LAAS / CNRS|
+|Vincent Hsiao|U. S. Naval Research Laboratory|
+|Sachin Grover|Arizona State University|	  
+
+
 <br>
 
 <details>
   <summary>
       <p style="font-size:18px; display:inline">Call for Papers</p>
 </summary>
+
 
 
 #### Overview
@@ -254,7 +283,9 @@ Some accepted long papers will be invited for contributed talks. All accepted pa
 
 <br>
 
-Organizing Committee  
+
+
+#### Organizing Committee  
 Sarath Sreedharan,  Colorado State University  
 Jiayuan Mao, MIT  
 Wenlong Huang, Stanford  
