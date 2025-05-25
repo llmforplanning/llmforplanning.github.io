@@ -6,5 +6,4 @@ permalink: /previous/
 title: Previous Editions
 layout: home
 ---
-## Previous Editions
 * [LM4Plan @ AAAI25](https://llmforplanning.github.io/AAAI25/)
