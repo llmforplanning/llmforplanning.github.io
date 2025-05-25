@@ -3,50 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /AAAI25/
-title: Workshop on Planning in the Era of LLMs (LM4Plan @ AAAI 2025)
+title: LM4Plan @ AAAI 2025
 layout: home
 ---
-
-<details>
-  <summary><strong>User:</strong> What are 10 steps that I should take towards planning a conference workshop on 'Planning in the Era of Large Language Models'?
-  </summary>
- 
-<br>
- <strong>GPT4:</strong> Organizing a conference workshop on "Planning in the Era of Large Language Models" is an exciting endeavor. The topic is increasingly relevant, and there's a lot to consider both in terms of content and logistics. Here's a 10-step plan to get you started:
-
-<br><br>Step 1: Clearly Define Objectives and Scope<br>
-Start by identifying the objectives you want the workshop to achieve. Is it an academic forum, a practical skills-building workshop, or a networking event? The scope could range from ethical considerations to technical aspects, or could encompass all of these.
-
-<br><br>Step 2: Identify Your Target Audience<br>
-Who would benefit the most from your workshop? Academics, industry professionals, or students? The audience you target will inform many of your subsequent decisions, from speakers to the types of activities and presentations.
-
-<br><br>Step 3: Assemble a Team<br>
-Organizing a workshop is a complex task that usually requires a team. This may include co-chairs, volunteers, and administrative support. You'll need people to handle logistics, outreach, content creation, and day-of-event activities.
-
-<br><br>Step 4: Secure Funding and Sponsorships<br>
-The financial aspect is critical. You'll need to prepare a budget that includes venue costs, speakers' fees (if applicable), catering, equipment rentals, and marketing. Sponsorships can help cover some of these costs and add credibility to your event.
-
-<br><br>Step 5: Decide on a Date and Location<br>
-Choose a date that doesn't conflict with other major events in the same field. The location should be convenient for your target audience. Due to the global relevance of large language models, consider also offering a virtual participation option.
-
-<br><br>Step 6: Call for Speakers and Topics<br>
-Put out a call for papers or speakers, depending on the format of your workshop. You may also personally invite key figures in the field. Decide on the type of content you want (e.g., lectures, panel discussions, hands-on sessions).
-
-<br><br>Step 7: Promote the Event<br>
-Use social media, academic journals, and community outreach to promote the event. You could also partner with universities, companies, and online forums to get the word out.
-
-<br><br>Step 8: Review Submissions and Confirm Speakers<br>
-If you've called for papers or speaker proposals, you'll need a review process. This may involve peer reviews or an advisory committee. Confirm your speakers well in advance and provide them with any logistical information they may need.
-
-<br><br>Step 9: Logistics and Rehearsal<br>
-Prepare all the logistical details such as registration, badges, technical setup, and any workshop materials. If possible, do a dry run a day before the workshop to ensure that everything runs smoothly.
-
-<br><br>Step 10: Conduct the Workshop and Collect Feedback<br>
-On the day of the event, make sure you have a team to manage different aspects, from registration to managing Q&A sessions. After the event, send out surveys to collect feedback for future improvements.
-
-<br><br>Remember to document the proceedings and share them with participants afterward, and perhaps consider publishing a summary or report to reach a wider audience and contribute to the field.
-
-</details>
 
 ### Accepted Papers
 
