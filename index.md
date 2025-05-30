@@ -49,16 +49,16 @@ On the day of the event, make sure you have a team to manage different aspects, 
 </details>
 
 
-### Call for Papers for ICAPS-25
+## Call for Papers for ICAPS-25
 Visit [https://llmforplanning.github.io/](https://llmforplanning.github.io/) for up-to-date information.
 ICAPS’25 Workshop,
 Melbourne, Australia
 Date: November 10-11, 2025
 
-# Overview
+### Overview
 Large Language Models (LLMs) are a disruptive force, changing how research was done in many sub-areas of AI. Planning is one of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LLMs can contribute to planning, how LLMs can/should be used, what are the pitfalls of using LLMs, what are the guarantees that can be obtained.
 
-# Topics of Interest
+### Topics of Interest
 We invite paper submissions on the following (not exhaustive) list of topics:
 
 * Algorithms and theories of planning with pre-trained or fine-tuned LLMs.
@@ -73,14 +73,14 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 * Other applications of large vision-language models (VLMs) in planning.
 * Planning for LLMs and VLMs.
 
-# Important Dates
+### Important Dates
 Paper submission deadline: **July 25th, 2025, AoE**  
 Paper acceptance notification: **September 8th, 2025, AoE**  
 
 ICAPS will be in-person this year. Authors of accepted workshop papers are expected to register for the workshop, physically attend the conference and present in person.
 
 
-# Submission Details
+### Submission Details
 We solicit workshop paper submissions relevant to the above call of the following types:
 
 Long papers – up to 8 pages + unlimited references / appendices
