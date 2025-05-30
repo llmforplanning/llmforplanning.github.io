@@ -49,12 +49,6 @@ On the day of the event, make sure you have a team to manage different aspects, 
 </details>
 
 
-## Call for Papers for ICAPS-25
-Visit [https://llmforplanning.github.io/](https://llmforplanning.github.io/) for up-to-date information.
-ICAPS’25 Workshop,
-Melbourne, Australia
-Date: November 10-11, 2025
-
 ### Overview
 Large Language Models (LLMs) are a disruptive force, changing how research was done in many sub-areas of AI. Planning is one of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LLMs can contribute to planning, how LLMs can/should be used, what are the pitfalls of using LLMs, what are the guarantees that can be obtained.
 
