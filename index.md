@@ -77,14 +77,15 @@ ICAPS will be in-person this year. Authors of accepted workshop papers are expec
 ### Submission Details
 We solicit workshop paper submissions relevant to the above call of the following types:
 
-Long papers – up to 8 pages + unlimited references / appendices
-Short papers – up to 4 pages + unlimited references / appendices
+Long papers – up to 8 pages + unlimited references / appendices  
+Short papers – up to 4 pages + unlimited references / appendices  
 
 Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/authorkit25) ). Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main ICAPS conference to the workshop.
 
 
+Paper submissions should be made through [OpenReview](https://openreview.net/group?id=icaps-conference.org/ICAPS/2025/Workshop/LM4Plan).
 
-*Paper submissions portal coming soon*.
+<!-- *Paper submissions portal coming soon*. -->
 
 Organizing Committee  
 Pascal Bercher, Australian National University  
