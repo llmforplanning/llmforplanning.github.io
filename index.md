@@ -90,7 +90,7 @@ Please format submissions in AAAI style (see instructions in the [Author Kit](ht
 
 
 
-Paper submissions should be made through [OpenReview](https://openreview.net/group?id=AAAI.org/2025/Workshop/LM4Plan).
+*Paper submissions portal coming soon*.
 
 Organizing Committee  
 Pascal Bercher, Australian National University  
