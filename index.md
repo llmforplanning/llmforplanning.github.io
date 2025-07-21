@@ -68,7 +68,7 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 * Planning for LLMs and VLMs.
 
 ### Important Dates
-Paper submission deadline: **August 5th, 2025, AoE**  (extended)
+Paper submission deadline: **August 5th, 2025, AoE**  (extended)  
 Paper acceptance notification: **September 8th, 2025, AoE**  
 
 ICAPS will be in-person this year. Authors of accepted workshop papers are expected to register for the workshop, physically attend the conference and present in person.
