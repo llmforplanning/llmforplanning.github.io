@@ -9,31 +9,30 @@ layout: home
 ### Overview
 Large Language Models (LLMs) are a disruptive force, changing how research was done in many sub-areas of AI. Planning is one of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LLMs can contribute to planning, how LLMs can/should be used, what are the pitfalls of using LLMs, what are the guarantees that can be obtained.
 
-### Schedule
-<!-- |Start time	|	End time | Agenda Item | Title |  Presenter
-|:----------|:---------|:------------|:------|:------| 
-|8:30	|	8:40	|	Opening remarks	|	Opening remarks	|	Chairs
-|8:40	|	9:20	|	Invited talk	|	Towards Model-Based Reasoning in Large Language Models: A Planning Perspective |	Nir Lipovetzky
-|9:20	|	9:45	|	paper talk	|	From Next Token Prediction to (STRIPS) World Models  -- Preliminary Results	|	
-|9:45	|	10:00	|	Spotlight presentations	|  Enhancing GPT-based Planning Policies by Plan Validation  |  
-|        |           |                           |  Towards a General Framework for HTN Modeling with LLMs  |  
-|        |           |                           |  Improved Generalized Planning with LLMs through Strategy Refinement and Reflection  |  
-|        |           |                           |  Which LLM is Best for Translating Natural Language Goals to PDDL  |  
-|        |           |                           |  Game of Thought: Robust Information Seeking with Large Language Models Using Game Theory  |  
-|        |           |                           |  Planner-Independent Extraction of Goals and Constraints from Natural Language for Open-World Mobile Robot Missions"	|	
-|10:00	|	10:30	|	Coffee	|		|	
-|10:30	|	10:55	|	paper talk	|	Seemingly Simple Planning Problems are Computationally Challenging: The Countdown Game	|	
-|10:55	|	11:20	|	paper talk	|	PDDL-Instruct: Enhancing Symbolic Planning Capabilities in LLMs through Logical Chain-of-Thought Instruction Tuning	|	
-|11:20	|	11:45	|	paper talk	|	Language Models For Generalised PDDL Planning: Synthesising Sound and Programmatic Policies	|	
-|11:45	|	12:00	|	Set up posters				
-|12:00	|	13:30	|	Lunch	|		|	
-|13:30	|	15:00	|	Posters session	|		|	
-|15:00	|	15:30	|	Coffee	|		|	
-|15:30	|	15:55	|	paper talk	|	Automated Repair of Totally-Ordered Hierarchical Task Network Domains via Context-Free Grammars with Large Language Model Support	|	
-|15:55	|	16:20	|	paper talk	|	A Collaborative Numeric Task Planning Framework based on Constraint Translations using LLMs	|	
-|16:20	|	16:45	|	paper talk	|	A Requirements Engineering-Driven Methodology for Planning Domain Generation via LLMs with Invariant-Based Refinement	|	Remote (schedule to end of workshop)
-|16:45	|	17:00	|	Concluding remarks	|		|	Chairs -->
 
+### Accepted papers
+
+ * From Next Token Prediction to (STRIPS) World Models  -- Preliminary Results (oral)
+ * Seemingly Simple Planning Problems are Computationally Challenging: The Countdown Game (oral)
+ * PDDL-Instruct: Enhancing Symbolic Planning Capabilities in LLMs through Logical Chain-of-Thought Instruction Tuning	 (oral)
+ * Language Models For Generalised PDDL Planning: Synthesising Sound and Programmatic Policies   (oral)
+ * Automated Repair of Totally-Ordered Hierarchical Task Network Domains via Context-Free Grammars with Large Language Model Support   (oral)
+ * A Collaborative Numeric Task Planning Framework based on Constraint Translations using LLMs	  (oral)
+ * A Requirements Engineering-Driven Methodology for Planning Domain Generation via LLMs with Invariant-Based Refinement (oral)
+ * Enhancing GPT-based Planning Policies by Plan Validation (poster)  
+ * Towards a General Framework for HTN Modeling with LLMs  (poster) 
+ * Improved Generalized Planning with LLMs through Strategy Refinement and Reflection  (poster) 
+ * Which LLM is Best for Translating Natural Language Goals to PDDL  (poster) 
+ * Game of Thought: Robust Information Seeking with Large Language Models Using Game Theory (poster) 
+ * Planner-Independent Extraction of Goals and Constraints from Natural Language for Open-World Mobile Robot Missions (poster) 
+
+### Presentation instructions
+
+All authors must present their papers. The oral presentations are 20 minutes + 5 minutes for questions. The poster presentations get a 2-minute spotlight presentation and must present a poster at the poster session.  
+
+The conference organizers will provide us with panels of size 1.8m (H) x 1.2m (W) (from the floor) to put the posters on. There are no size limitations beyond being able to fit on the panel.  
+
+### Schedule
 
 |Start time	|	End time | Agenda Item | Title 
 |:----------|:---------|:------------|:------|
@@ -45,7 +44,7 @@ Large Language Models (LLMs) are a disruptive force, changing how research was d
 |        |           |                           |  Improved Generalized Planning with LLMs through Strategy Refinement and Reflection  
 |        |           |                           |  Which LLM is Best for Translating Natural Language Goals to PDDL  
 |        |           |                           |  Game of Thought: Robust Information Seeking with Large Language Models Using Game Theory 
-|        |           |                           |  Planner-Independent Extraction of Goals and Constraints from Natural Language for Open-World Mobile Robot Missions"	
+|        |           |                           |  Planner-Independent Extraction of Goals and Constraints from Natural Language for Open-World Mobile Robot Missions  
 |10:00	|	10:30	|	Coffee	|		
 |10:30	|	10:55	|	paper talk	|	Seemingly Simple Planning Problems are Computationally Challenging: The Countdown Game	
 |10:55	|	11:20	|	paper talk	|	PDDL-Instruct: Enhancing Symbolic Planning Capabilities in LLMs through Logical Chain-of-Thought Instruction Tuning	
