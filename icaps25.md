@@ -37,7 +37,7 @@ The conference organizers will provide us with panels of size 1.8m (H) x 1.2m (W
 |Start time	|	End time | Agenda Item | Title 
 |:----------|:---------|:------------|:------|
 |8:30	|	8:40	|	Opening remarks	|	Opening remarks	
-|8:40	|	9:20	|	Invited talk	|	Nir Lipovetzky: Towards Model-Based Reasoning in Large Language Models: A Planning Perspective
+|8:40	|	9:20	|	Invited talk	|	[Nir Lipovetzky: Towards Model-Based Reasoning in Large Language Models: A Planning Perspective](https://llmforplanning.github.io/speakers/)
 |9:20	|	9:45	|	paper talk	|	From Next Token Prediction to (STRIPS) World Models  -- Preliminary Results	
 |9:45	|	10:00	|	Spotlight presentations	|  Enhancing GPT-based Planning Policies by Plan Validation  
 |        |           |                           |  Towards a General Framework for HTN Modeling with LLMs  
