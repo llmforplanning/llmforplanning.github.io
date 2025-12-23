@@ -98,7 +98,7 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
  * Jörg Hoffmann,	Saarland University
  * Leslie N. Smith,	US Naval Research Laboratory
  * Nader Karimi Bavandpour,	Australian National University
- * Hector Palacios,	Independent
+ * Hector Palacios,	Independent Researcher
  * Sukai Huang,	University of Melbourne
  * Mak Roberts,	US Naval Research Laboratory
  * André Grahl Pereira,	Federal University of Rio Grande do Sul 
