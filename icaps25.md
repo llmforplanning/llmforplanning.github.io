@@ -93,11 +93,31 @@ Paper submissions should be made through [OpenReview](https://openreview.net/gro
 
 <!-- *Paper submissions portal coming soon*. -->
 
-Organizing Committee  
-Pascal Bercher, Australian National University  
-Augusto B. Corrêa, University of Oxford  
-Morgan Fine-Morris, Naval Research Laboratory  
-Michael Katz, IBM Research  
-Sarath Sreedharan, Colorado State University  
+### Program Committee
+ * Vicenç Gomez,	Universitat Pompeu Fabra
+ * Jörg Hoffmann,	Saarland University
+ * Leslie N. Smith,	US Naval Research Laboratory
+ * Nader Karimi Bavandpour,	Australian National University
+ * Hector Palacios,	Independent
+ * Sukai Huang,	University of Melbourne
+ * Mak Roberts,	US Naval Research Laboratory
+ * André Grahl Pereira,	Federal University of Rio Grande do Sul 
+ * Alexander Tuisov,	Technion - Israel Institute of Technology
+ * Sachin Grover,	Arizona State University
+ * Pulkit Verma,	Indian Institute of Technology Madras
+ * Nir Lipovetzky,	University of Melbourne
+ * Daniel Lutalo,	Australian National University
+ * Chao Lei,	University of Melbourne
+ * Laura M. Hiatt,	US Naval Research Laboratory
+ * Lin Guan,	Meta Superintelligence Labs
+ * Daniel Fišer,	Aalborg University
+
+
+### Organizing Committee  
+ * Pascal Bercher, Australian National University  
+ * Augusto B. Corrêa, University of Oxford  
+ * Morgan Fine-Morris, US Naval Research Laboratory  
+ * Michael Katz, IBM Research  
+ * Sarath Sreedharan, Colorado State University  
 
 Please send your inquiries to [llmforplanning@gmail.com](mailto:llmforplanning@gmail.com)
