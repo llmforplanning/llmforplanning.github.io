@@ -95,8 +95,14 @@ span.award-other img {
 
 /* Schedule separator styling */
 .schedule-table tr.schedule-separator td {
-  padding: 0;
-  height: 1px;
-  border-bottom: 2px solid #ddd;
-  background: transparent;
+  padding: 0 !important;
+  height: 0 !important;
+  line-height: 0 !important;
+  border-top: none !important;
+  border-bottom: 2px solid #666 !important;
+  background: transparent !important;
+}
+
+.schedule-table tr.schedule-separator {
+  height: 2px;
 }
