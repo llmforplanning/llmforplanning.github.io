@@ -41,6 +41,12 @@ of the last bastions that remain standing. The focus of this workshop is on the 
       <td>09:40–10:10</td>
       <td>Keynote Talk: Samy Bengio, Apple</td>
     </tr>
+    
+    <!-- Separator -->
+    <tr class="schedule-separator">
+      <td colspan="2"></td>
+    </tr>
+    
     <tr class="session-group keynote">
       <td>10:10–10:40</td>
       <td>Keynote Talk: Noam Brown, OpenAI</td>
@@ -56,10 +62,20 @@ of the last bastions that remain standing. The focus of this workshop is on the 
       <td>Oral Presentations from selected submissions</td>
     </tr>
     
+    <!-- Separator -->
+    <tr class="schedule-separator">
+      <td colspan="2"></td>
+    </tr>
+    
     <!-- Lunch Break -->
     <tr class="session-group break">
       <td>12:00–13:00</td>
       <td>Lunch</td>
+    </tr>
+    
+    <!-- Separator -->
+    <tr class="schedule-separator">
+      <td colspan="2"></td>
     </tr>
     
     <!-- Afternoon Keynote -->
@@ -80,10 +96,20 @@ of the last bastions that remain standing. The focus of this workshop is on the 
       <td>Panel Discussion: including all invited speakers and panelists</td>
     </tr>
     
+    <!-- Separator -->
+    <tr class="schedule-separator">
+      <td colspan="2"></td>
+    </tr>
+    
     <!-- Coffee Break -->
     <tr class="session-group break">
       <td>15:00–15:30</td>
       <td>Coffee Break + Posters</td>
+    </tr>
+    
+    <!-- Separator -->
+    <tr class="schedule-separator">
+      <td colspan="2"></td>
     </tr>
     
     <!-- Poster Session -->
