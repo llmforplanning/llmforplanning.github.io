@@ -92,3 +92,11 @@ span.award-other img {
   padding-top: 0;
   padding-bottom: 8px;
 }
+
+/* Schedule separator styling */
+.schedule-table tr.schedule-separator td {
+  padding: 0;
+  height: 1px;
+  border-bottom: 2px solid #ddd;
+  background: transparent;
+}
