@@ -34,7 +34,7 @@ plugins:
 # this and add the path to the pages in order as they should show up
 header_pages:
 #- index.md
-- icaps25.md
+# - icaps25.md
 - previous.md
 #- speakers.md
 #- organizers.md
