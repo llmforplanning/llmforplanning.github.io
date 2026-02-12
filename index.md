@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /
-title: Workshop on Planning in the Era of LLMs (LM4Plan @ ICAPS 2025)
+title: Workshop on Planning in the Era of LLMs (LM4Plan)
 layout: home
 ---
 
@@ -50,22 +50,24 @@ On the day of the event, make sure you have a team to manage different aspects, 
 
 
 ### Overview
-Large Language Models (LLMs) are a disruptive force, changing how research was done in many sub-areas of AI. Planning is one of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LLMs can contribute to planning, how LLMs can/should be used, what are the pitfalls of using LLMs, what are the guarantees that can be obtained.
+Language Models (LMs) are a disruptive force, changing how research was done in many subareas of AI. Planning is one
+of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LMs can contribute to planning, how LMs can/should be used, what are the pitfalls of using LMs, what are the guarantees that can be obtained.
+
+
+### Current Proposal
+We are currently preparing a proposal for:
+* [LM4Plan @ ICML 2026](https://llmforplanning.github.io/ICML26/) - Workshop Proposal
 
 ### Topics of Interest
 We invite paper submissions on the following (not exhaustive) list of topics:
 
-* Algorithms and theories of planning with pre-trained or fine-tuned LLMs.
-* LLMs for (partial) model elicitation.
-* LLMs for search guidance or search pruning.
-* LLMs for planning modulo theories.
-* LLMs as proxies for user preferences.
-* Validation/verification of plans, policies, or models.
-* Generalization in planning and generalized planning with LLMs.
-* Using LLMs to develop interfaces for planning-related problems.
-* Other applications of LLMs in planning.
-* Other applications of large vision-language models (VLMs) in planning.
-* Planning for LLMs and VLMs.
-
-### Current Edition
-Check out our page on Workshop at [ICAPS 25](https://llmforplanning.github.io/ICAPS25/)
+* Planning directly with pre-trained or fine-tuned LMs.
+* Planning for LMs.
+* LMs for (partial) model elicitation.
+* LMs for generating structured planning problem descriptions.
+* LMs for search guidance or search pruning.
+* LMs for validation and verification of plans, policies, or models.
+* LMs for generalization in planning and generalized planning.
+* Using LMs as a proxy for user preferences.
+* Using LMs to develop interfaces for planning-based systems or planning-related problems.
+* Other applications of LMs in planning.
