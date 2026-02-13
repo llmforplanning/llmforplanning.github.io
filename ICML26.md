@@ -53,10 +53,16 @@ of the last bastions that remain standing. The focus of this workshop is on the 
     
     <!-- Late Morning Oral Presentations -->
     <tr class="session-group oral-presentations">
-      <td>11:00–12:00</td>
+      <td>11:00–11:30</td>
       <td>Oral Presentations from selected submissions</td>
     </tr>
     
+    <!-- Lightning Talks -->
+    <tr class="session-group lightning-talks">
+      <td>11:30–12:00</td>
+      <td>Lightning Talks from selected short submissions</td>
+    </tr>
+
     <!-- Lunch Break -->
     <tr class="session-group break">
       <td>12:00–13:00</td>
@@ -69,10 +75,9 @@ of the last bastions that remain standing. The focus of this workshop is on the 
       <td>Keynote Talk: Peter Stone, University of Texas at Austin</td>
     </tr>
     
-    <!-- Lightning Talks -->
-    <tr class="session-group lightning-talks">
+    <tr class="session-group keynote">
       <td>13:30–14:00</td>
-      <td>Lightning Talks from selected short submissions</td>
+      <td>Keynote Talk: Elias Bareinboim, Columbia University</td>
     </tr>
     
     <!-- Panel Discussion -->
