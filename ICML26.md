@@ -124,6 +124,11 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 * **Affiliation:** Arizona State University
 * **Bio:** Subbarao Kambhampati is a professor of computer science at Arizona State University. Kambhampati studies fundamental problems in planning and decision making, motivated in particular by the challenges of human-aware AI systems. He is a fellow of AAAI, AAAS, and ACM, and was an NSF Young Investigator. He was the president of the Association for the Advancement of Artificial Intelligence (AAAI), trustee of International Joint Conference on Artificial Intelligence, and a founding board member of Partnership on AI. Kambhampati's research as well as his views on the progress and societal impacts of AI have been featured in multiple national and international media outlets.
 
+
+####  Elias Bareinboim
+* **Affiliation:** Columbia University
+* **Bio:** Elias Bareinboim is an associate professor in the Department of Computer Science and the director of the Causal Artificial Intelligence Lab at Columbia University. He has worked on AI, ML, statistics, robotics, cognitive science, and the philosophy of science. His main research focus is on the foundations of causal inference and its applications to AI. 
+
 ### Topics of Interest
 We invite paper submissions on the following (not exhaustive) list of topics:
 
