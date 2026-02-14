@@ -66,7 +66,7 @@ of the last bastions that remain standing. The focus of this workshop is on the 
     <!-- Lunch Break -->
     <tr class="session-group break">
       <td>12:00–13:00</td>
-      <td>Lunch</td>
+      <td>Lunch + Posters</td>
     </tr>
     
     <!-- Afternoon Keynote -->
