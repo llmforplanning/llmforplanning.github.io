@@ -6,6 +6,8 @@ permalink: /ICAPS26/
 title: LM4Plan @ ICAPS 2026
 layout: home
 ---
+Date:  **June 28 or 29, 2026 (TBD)**
+
 ### Overview
 Language Models (LMs) are a disruptive force, changing how research was done in many subareas of AI. Planning is one of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LMs can contribute to planning, how LMs can/should be used, what are the pitfalls of using LMs, what are the guarantees that can be obtained.
 
