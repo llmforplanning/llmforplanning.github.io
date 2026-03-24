@@ -92,3 +92,21 @@ span.award-other img {
   padding-top: 0;
   padding-bottom: 8px;
 }
+
+
+.button-container {
+  display: flex; /* Aligns child elements side-by-side */
+  justify-content: center; /* Centers the buttons within the container */
+  gap: 40px; /* Adds space between the buttons */
+  /* You can adjust the gap value as needed */
+}
+
+.button-link {
+  /* Add styling here to make the links look like buttons */
+  background-color: #0095ba;
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none; /* Removes the default underline from links */
+  border-radius: 5px; /* Adds rounded corners */
+  display: inline-block; /* Ensures proper display and padding */
+}

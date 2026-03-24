@@ -54,9 +54,15 @@ Language Models (LMs) are a disruptive force, changing how research was done in 
 of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LMs can contribute to planning, how LMs can/should be used, what are the pitfalls of using LMs, what are the guarantees that can be obtained.
 
 
-### Current Proposal
-We are currently preparing a proposal for:
-* [LM4Plan @ ICML 2026](https://llmforplanning.github.io/ICML26/) - Workshop Proposal
+### Current Editions
+
+<div class="button-container">
+  <a href="https://llmforplanning.github.io/ICML26/" class="button-link">LM4Plan @ ICML 2026</a>
+  <a href="https://llmforplanning.github.io/ICAPS26/" class="button-link">LM4Plan @ ICAPS 2026</a>
+</div>
+
+<!-- * [LM4Plan @ ICML 2026](https://llmforplanning.github.io/ICML26/) 
+* [LM4Plan @ ICAPS 2026](https://llmforplanning.github.io/ICAPS26/)  -->
 
 ### Topics of Interest
 We invite paper submissions on the following (not exhaustive) list of topics:

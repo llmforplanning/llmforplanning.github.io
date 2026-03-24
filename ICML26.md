@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 permalink: /ICML26/
-title: LM4Plan @ ICML 2026 (Proposal)
+title: LM4Plan @ ICML 2026 
 layout: home
 ---
 ### Overview
