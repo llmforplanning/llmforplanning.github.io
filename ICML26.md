@@ -168,8 +168,10 @@ Paper submissions portal: **TBA**
 To be announced.
 
 ### Organizing Committee
- * Michael Katz, IBM [contact](mailto:michael.katz1@ibm.com) 
- * Augusto B. Corrêa, University of Oxford [contact](mailto:augusto.blaascorrea@chch.ox.ac.uk)
+ * Michael Katz, IBM 
+ <!-- [contact](mailto:michael.katz1@ibm.com)  -->
+ * Augusto B. Corrêa, University of Oxford 
+ <!-- [contact](mailto:augusto.blaascorrea@chch.ox.ac.uk) -->
  * Nir Lipovetzky, University of Melbourne
  * Sarath Sreedharan, Colorado State University
  * Katharina Stein, Saarland University
