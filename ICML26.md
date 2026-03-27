@@ -32,29 +32,24 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 
 
 ### Important Dates
-Paper submission deadline: **April 24th, 2026, AoE** 
+Paper submission deadline: **April 24th, 2026, AoE**  
 Paper acceptance notification: **May 15th, 2026, AoE**
 
 ### Submission Details
 Paper submissions should be made through [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/LM4Plan).
 
-### Format 
-
+**Format**<br>
 All submissions must be a single PDF file and follow one of the formats below:
 
 **Long papers** – up to 8 pages + unlimited references / appendices  
 **Short papers** – up to 4 pages + unlimited references / appendices  
 
-### Style
-
 Please format submissions in ICML style (see instructions in the [Author Kit](https://media.icml.cc/Conferences/ICML2026/Styles/icml2026.zip) ). 
 
-### Dual-submission and non-archival policy
-
+**Dual-submission and non-archival policy**<br>
 Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. The workshop is a non-archival venue and will not have official proceedings. Workshop submissions can be subsequently or concurrently submitted to other venues.
 
-### Double-blind Reviewing policy
-
+**Double-blind Reviewing policy**<br>
 All submissions must be anonymized and may not contain any identifying information that may violate the double-blind reviewing policy. Submissions and reviews will not be public. Only accepted papers will be made public.
 
 
