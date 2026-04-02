@@ -54,9 +54,14 @@ Please format submissions in AAAI style (see instructions in the [Author Kit](ht
 
 Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. Please do not submit papers that are already accepted for the main ICAPS conference to the workshop. The workshop is a non-archival venue and will not have official proceedings. Workshop submissions can be subsequently or concurrently submitted to other venues.
 
-### Double-blind Reviewing policy
+### Reviewing policy
+
+**Double-blind reviewing**<br>
 
 All submissions must be anonymized and may not contain any identifying information that may violate the double-blind reviewing policy. Submissions and reviews will not be public. Only accepted papers will be made public.
+
+**Reciprocal reviewing**<br>
+Depending on the number of submissions, we may adopt a reciprocal reviewing process. For each submission, one reciprocal reviewer needs to be nominated who agrees to serve as a reviewer if reciprocal reviewing is implemented. Each nominated reviewer must have at least one relevant publication at a top venue and cannot be nominated as a reviewer for more than one submission. 
 
 ### Program Committee
 To be announced.
