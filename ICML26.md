@@ -74,27 +74,24 @@ function startCountdown(elementId, targetDateUTC) {
     var seconds = totalSeconds % 60;
 
     el.innerHTML = `
-      <div class="time-box">
-        <div class="time-value">${weeks}</div>
-        <div class="time-label">weeks</div>
-      </div>
-      <div class="time-box">
-        <div class="time-value">${days}</div>
-        <div class="time-label">days</div>
-      </div>
-      <div class="time-box">
-        <div class="time-value">${pad(hours)}</div>
-        <div class="time-label">hours</div>
-      </div>
-      <div class="time-box">
-        <div class="time-value">${pad(minutes)}</div>
-        <div class="time-label">minutes</div>
-      </div>
-      <div class="time-box">
-        <div class="time-value">${pad(seconds)}</div>
-        <div class="time-label">seconds</div>
-      </div>
+    <div style="display:flex; gap:10px; font-family:sans-serif;">
+        ${box(weeks, "weeks")}
+        ${box(days, "days")}
+        ${box(pad(hours), "hours")}
+        ${box(pad(minutes), "minutes")}
+        ${box(pad(seconds), "seconds")}
+    </div>
     `;
+
+    function box(value, label) {
+    return `
+        <div style="background:#f3f3f3; border-radius:6px; padding:10px 12px; text-align:center; min-width:60px;">
+        <div style="font-size:20px; font-weight:bold;">${value}</div>
+        <div style="font-size:11px; color:#666; margin-top:4px;">${label}</div>
+        </div>
+    `;
+    }
+
   }, 1000);
 }
 
