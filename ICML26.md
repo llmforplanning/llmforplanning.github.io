@@ -34,29 +34,34 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 ### Important Dates
 <!-- Paper submission deadline: **April 24th, 2026, AoE**   -->
 
-<p>Paper submission deadline: April 24th, 2026 at 23:59 Anywhere on Earth: <span id="countdown1"></span></p>
-<p>Paper acceptance notification: May 15th, 2026 at 23:59 Anywhere on Earth: <span id="countdown2"></span></p>
+<!-- <p>Paper submission deadline: April 24th, 2026 at 23:59 Anywhere on Earth: <span id="countdown1"></span></p>
+<p>Paper acceptance notification: May 15th, 2026 at 23:59 Anywhere on Earth: <span id="countdown2"></span></p> -->
+
+<p>Paper submission deadline: April 24th, 2026 at 23:59 Anywhere on Earth:</p>
+<div class="countdown" id="countdown1"></div>
+
+<p>Paper acceptance notification: May 15th, 2026 at 23:59 Anywhere on Earth:</p>
+<div class="countdown" id="countdown2"></div>
 
 <script>
 function aoeDeadline(year, month, day, hour=23, min=59, sec=59) {
-  // AoE = UTC−12 → add 12 hours to convert to UTC
   return Date.UTC(year, month - 1, day, hour + 12, min, sec);
-};
+}
 
 function startCountdown(elementId, targetDateUTC) {
   function pad(n) {
     return n.toString().padStart(2, '0');
   }
 
-  var countDownDate = targetDateUTC;
+  var el = document.getElementById(elementId);
 
   var x = setInterval(function() {
     var now = Date.now();
-    var distance = countDownDate - now;
+    var distance = targetDateUTC - now;
 
     if (distance < 0) {
       clearInterval(x);
-      document.getElementById(elementId).innerHTML = "";
+      el.innerHTML = "";
       return;
     }
 
@@ -68,17 +73,30 @@ function startCountdown(elementId, targetDateUTC) {
     var minutes = Math.floor((totalSeconds % 3600) / 60);
     var seconds = totalSeconds % 60;
 
-    var countdown = 
-      weeks + "w " + 
-      days + "d " + 
-      pad(hours) + ":" + 
-      pad(minutes) + ":" + 
-      pad(seconds);
-
-    document.getElementById(elementId).innerHTML = countdown;
-
+    el.innerHTML = `
+      <div class="time-box">
+        <div class="time-value">${weeks}</div>
+        <div class="time-label">weeks</div>
+      </div>
+      <div class="time-box">
+        <div class="time-value">${days}</div>
+        <div class="time-label">days</div>
+      </div>
+      <div class="time-box">
+        <div class="time-value">${pad(hours)}</div>
+        <div class="time-label">hours</div>
+      </div>
+      <div class="time-box">
+        <div class="time-value">${pad(minutes)}</div>
+        <div class="time-label">minutes</div>
+      </div>
+      <div class="time-box">
+        <div class="time-value">${pad(seconds)}</div>
+        <div class="time-label">seconds</div>
+      </div>
+    `;
   }, 1000);
-};
+}
 
 startCountdown("countdown1", aoeDeadline(2026, 4, 24));
 startCountdown("countdown2", aoeDeadline(2026, 5, 15));

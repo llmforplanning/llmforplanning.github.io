@@ -111,3 +111,29 @@ span.award-other img {
   display: inline-block; /* Ensures proper display and padding */
   font-weight: bold;
 }
+
+.countdown {
+  display: flex;
+  gap: 10px;
+  font-family: sans-serif;
+  margin: 10px 0 20px 0;
+}
+
+.time-box {
+  background: #f3f3f3;
+  border-radius: 6px;
+  padding: 10px 12px;
+  text-align: center;
+  min-width: 60px;
+}
+
+.time-value {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.time-label {
+  font-size: 11px;
+  color: #666;
+  margin-top: 4px;
+}
