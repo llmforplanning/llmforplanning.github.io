@@ -37,11 +37,13 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 <!-- <p>Paper submission deadline: April 24th, 2026 at 23:59 Anywhere on Earth: <span id="countdown1"></span></p>
 <p>Paper acceptance notification: May 15th, 2026 at 23:59 Anywhere on Earth: <span id="countdown2"></span></p> -->
 
-<p>Paper submission deadline: April 24th, 2026 at 23:59 Anywhere on Earth:</p>
+<p>Paper submission deadline: April 24th, 2026 at 23:59 Anywhere on Earth:
 <div class="countdown" id="countdown1"></div>
+</p>
 
-<p>Paper acceptance notification: May 15th, 2026 at 23:59 Anywhere on Earth:</p>
+<p>Paper acceptance notification: May 15th, 2026 at 23:59 Anywhere on Earth:
 <div class="countdown" id="countdown2"></div>
+</p>
 
 <script>
 function aoeDeadline(year, month, day, hour=23, min=59, sec=59) {
@@ -75,8 +77,8 @@ function startCountdown(elementId, targetDateUTC) {
 
     el.innerHTML = `
     <div style="display:flex; gap:10px; font-family:sans-serif;">
-        ${box(weeks, "weeks")}
-        ${box(days, "days")}
+        ${box(pad(weeks), "weeks")}
+        ${box(pad(days), "days")}
         ${box(pad(hours), "hours")}
         ${box(pad(minutes), "minutes")}
         ${box(pad(seconds), "seconds")}
