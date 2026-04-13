@@ -32,8 +32,46 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 
 
 ### Important Dates
-Paper submission deadline: **April 24th, 2026, AoE**  
+<!-- Paper submission deadline: **April 24th, 2026, AoE**   -->
+
+<p>Paper submission deadline: April 24th, 2026 at 23:59 Anywhere on Earth: <span id="countdown"></span></p>
+
+<script>
+  // Set the date we're counting down to
+  var countDownDate = new Date("April 24th, 2026 23:59:59 UTC").getTime();  // enter time here in AoE
+  countDownDate = countDownDate + 1000 * 3600 * 12 // AoE = UTC - 12
+
+  // Update the count down every 1 second
+  var x = setInterval(function() {
+
+    // Get today's date and time
+    var now = new Date().getTime();
+
+    // Find the distance between now and the count down date
+    var distance = countDownDate - now;
+
+    // Time calculations for days, hours, minutes and seconds
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+    // Display the result in the element with id="countdown"
+    var countdown = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+
+    // If the countdown is finished, write some text 
+    if (distance < 0) {
+      clearInterval(x);
+      countdown = "";  // optional message if countdown expired
+    }
+
+    document.getElementById("countdown").innerHTML = countdown
+
+  }, 1000);
+</script>
+
 Paper acceptance notification: **May 15th, 2026, AoE**
+
 
 ### Submission Details
 Paper submissions should be made through [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/LM4Plan).
