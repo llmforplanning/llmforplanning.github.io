@@ -38,8 +38,7 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 
 <script>
   // Set the date we're counting down to
-  var countDownDate = new Date("April 24th, 2026 23:59:59 UTC").getTime();  // enter time here in AoE
-  countDownDate = countDownDate + 1000 * 3600 * 12 // AoE = UTC - 12
+  var countDownDate = new Date("April 25, 2026 11:59:59 UTC").getTime();
 
   // Update the count down every 1 second
   var x = setInterval(function() {
