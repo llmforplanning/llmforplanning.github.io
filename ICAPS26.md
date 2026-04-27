@@ -29,8 +29,8 @@ We particularly encourage submissions leveraging small and open-weight language 
 
 
 ### Important Dates
-Paper submission deadline: **May 1st, 2026, AoE**  
-Paper acceptance notification: **June 2nd, 2026, AoE**  
+Paper submission deadline: ~~May 1st, 2026, AoE~~ **May 8th, 2026, AoE**
+Paper acceptance notification: **June 2nd, 2026, AoE**
 
 ICAPS will be **in-person** this year. **Authors of accepted workshop papers are expected to register for the workshop, physically attend the conference and present in person.** All accepted papers will have an **oral presentation**.
 
@@ -38,17 +38,17 @@ ICAPS will be **in-person** this year. **Authors of accepted workshop papers are
 ### Submission Details
 We solicit workshop paper submissions relevant to the above call. Paper submissions should be made through [OpenReview](https://openreview.net/group?id=icaps-conference.org/ICAPS/2026/Workshop/LM4Plan).
 
-### Format 
+### Format
 
 All submissions must be a single PDF file and follow one of the formats below:
 
-**Long papers** – up to 8 pages + unlimited references / appendices  
-**Short papers** – up to 4 pages + unlimited references / appendices  
+**Long papers** – up to 8 pages + unlimited references / appendices
+**Short papers** – up to 4 pages + unlimited references / appendices
 
 
 ### Style
 
-Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/authorkit26-1/) ). 
+Please format submissions in AAAI style (see instructions in the [Author Kit](https://aaai.org/authorkit26-1/) ).
 
 ### Dual-submission and non-archival policy
 
@@ -61,16 +61,16 @@ Authors submitting papers rejected from other conferences, please ensure you do 
 All submissions must be anonymized and may not contain any identifying information that may violate the double-blind reviewing policy. Submissions and reviews will not be public. Only accepted papers will be made public.
 
 **Reciprocal reviewing**<br>
-Depending on the number of submissions, we may adopt a reciprocal reviewing process. For each submission, one reciprocal reviewer needs to be nominated who agrees to serve as a reviewer if reciprocal reviewing is implemented. Each nominated reviewer must have at least one relevant publication at a top venue and cannot be nominated as a reviewer for more than one submission. 
+Depending on the number of submissions, we may adopt a reciprocal reviewing process. For each submission, one reciprocal reviewer needs to be nominated who agrees to serve as a reviewer if reciprocal reviewing is implemented. Each nominated reviewer must have at least one relevant publication at a top venue and cannot be nominated as a reviewer for more than one submission.
 
 ### Program Committee
 To be announced.
 
 ### Organizing Committee
- * Augusto B. Corrêa, University of Oxford 
+ * Augusto B. Corrêa, University of Oxford
  * Elliot Gestrin, Linköping University
  * Sarath Sreedharan, Colorado State University
- * Michael Katz, IBM 
+ * Michael Katz, IBM
  * Nir Lipovetzky, University of Melbourne
  * Katharina Stein, Saarland University
  * Luckeciano C. Melo, University of Oxford
