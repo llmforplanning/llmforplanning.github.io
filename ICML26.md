@@ -8,7 +8,7 @@ layout: home
 ---
 ICML’26 Workshop,  
 Seoul, South Korea,  
-Date: July 10 or 11, 2026  
+Date: July 10, 2026  
 
 ### Overview
 Language Models (LMs) are a disruptive force, changing how research was done in many subareas of AI. Planning is one
@@ -30,6 +30,17 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 * Other applications of LMs in planning.
 
 
+### ​Rejected ICML Submissions Track
+We would like to offer authors of relevant submissions rejected from the main ICML 2026 track the opportunity to submit their papers to our workshop.
+
+Submission Instructions
+In addition to the regular submission requirements described below, authors must include a single PDF containing both:
+
+1. the ICML 2026 reviews and rebuttal materials, as well as  
+2. a short cover letter of no more than one page in which they may provide a final response to those reviews and describe the changes made to the paper.  
+
+Because relevance is a primary criterion for this track, we reserve the right to desk reject, without review, submissions that fall outside the topics of interest listed below.
+
 
 ### Important Dates
 <!-- Paper submission deadline: **April 24th, 2026, AoE**   -->
@@ -41,7 +52,11 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 <div class="countdown" id="countdown1"></div>
 </p>
 
-<p>Paper acceptance notification: May 15th, 2026 at 23:59 Anywhere on Earth:
+<p>Rejected ICML Submissions Track Paper submission deadline: May 6th, 2026 at 23:59 Anywhere on Earth:
+<div class="countdown" id="countdown3"></div>
+</p>
+
+<p>Paper acceptance notification: May 22nd, 2026 at 23:59 Anywhere on Earth:
 <div class="countdown" id="countdown2"></div>
 </p>
 
@@ -98,7 +113,8 @@ function startCountdown(elementId, targetDateUTC) {
 }
 
 startCountdown("countdown1", aoeDeadline(2026, 4, 24));
-startCountdown("countdown2", aoeDeadline(2026, 5, 15));
+startCountdown("countdown2", aoeDeadline(2026, 5, 22));
+startCountdown("countdown3", aoeDeadline(2026, 5, 6));
 </script>
 
 <!-- Paper acceptance notification: **May 15th, 2026, AoE** -->
