@@ -65,6 +65,8 @@ collections:
     output: true
   aaai_speakers:
     output: true
+  speakers_icml:
+    output: true
   # schedule:
   #   sort_by: sequence_id
   #   output: true
