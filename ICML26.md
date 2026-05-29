@@ -8,7 +8,7 @@ layout: home
 ---
 ICML’26 Workshop,  
 Seoul, South Korea,  
-Date: July 10, 2026
+Date: July 11, 2026
 
 ### Invited Speakers
 We are excited to announce our invited speakers for LM4Plan @ ICML 2026. [View full speaker details](/icml_speakers/).
