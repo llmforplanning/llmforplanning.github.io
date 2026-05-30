@@ -18,6 +18,7 @@ We are excited to announce our invited speakers for LM4Plan @ ICML 2026. [View f
 * **Yarin Gal** - University of Oxford
 * **Elias Bareinboim** - Columbia University
 * **Noam Brown** - OpenAI
+* **Nathan Sturtevant** - University of Alberta
 
 ### Overview
 Language Models (LMs) are a disruptive force, changing how research was done in many subareas of AI. Planning is one
