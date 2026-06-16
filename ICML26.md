@@ -8,7 +8,9 @@ layout: home
 ---
 ICML’26 Workshop,  
 Seoul, South Korea,  
-Date: July 11, 2026
+Date: July 11, 2026,  
+Room Main Program: Grand Ballroom 101-102,   
+Poster Session: Hall A, poster boards 1104–1115 and 1200–1201
 
 ### Invited Speakers
 We are excited to announce our invited speakers for LM4Plan @ ICML 2026. [View full speaker details](/icml_speakers/).
@@ -23,6 +25,91 @@ We are excited to announce our invited speakers for LM4Plan @ ICML 2026. [View f
 ### Overview
 Language Models (LMs) are a disruptive force, changing how research was done in many subareas of AI. Planning is one
 of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LMs can contribute to planning, how LMs can/should be used, what are the pitfalls of using LMs, what are the guarantees that can be obtained.
+
+
+### Schedule
+
+| Time | Event | Details |
+|-------------|-----------------|-----------------|
+| 08:00–08:05 | Opening remarks | Katharina Stein |
+| 08:05–08:50 | **Invited talk**|*Samy Bengio*: Reasoning with LLMs: Challenges and Opportunities|
+| 08:50–09:35 | **Invited talk**|*Nathan Sturtevant*: LLM Planning Success|
+| 09:35–10:00 | Coffee break ||
+| 10:00–10:45 | **Invited talk**|*Subbarao Kambhampati*: TBD|
+| 10:45–11:30 | **Invited talk**|*Elias Bareinboim*: Towards Causal Artificial Intelligence|
+| 11:30–11:40 | buffer||
+| 11:40–12:00 | *Oral presentations*|LM-Landmarks: Language Model Guided Landmark Generation for Classical Planning with Formal Soundness Guarantees|
+|||IDP-MCTS Empowering Small Language Models for Automated MILP Modeling and Code Generation in Flexible Job Shop Scheduling|
+| 12:00–13:00 | Lunch||
+| 13:00–13:45 | **Invited talk**|*Yarin Gal*: Model Collapse and its Implications on Planning with LLMs|
+| 13:45–14:30 | **Invited talk**|*Noam Brown*: Implications of Large-Scale Test-Time Compute|
+| 14:30–14:40 | buffer||
+| 14:40–15:20 | *Oral presentations*|HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents|
+|||ICPRL: Acquiring Physical Intuition from Interactive Control|
+|||Reward Prediction with Factorized World States|
+|||OrigamiBench: An Interactive Environment to Synthesize Flat-Foldable Origamis|
+| 15:20–15:30 | Concluding remarks||
+| 15:30–16:00 | Coffee break ||
+| 16:00–17:00 | Poster session |**Hall A**, boards 1104–1115 and 1200–1201|
+
+
+### Accepted Papers
+- **VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification**   
+*Ninghan Zhong ⋅ Ahmet E Tanriverdi ⋅ Kaan Kale ⋅ Sriram Vishwanath*
+- **AVATAR-AGENT: A Multi-Agent LLM Planning System for 3D Avatar Generation**  
+*Jason Ding ⋅ Rohan Gangaraju ⋅ Krishna C Garikipati ⋅ Foad Dabiri ⋅ Chang Xu*
+- **CAMEO: Cooperative Agentic Multi-objective Evolution of Heuristics**  
+*Tien Dat Vu ⋅ Hung Phan ⋅ Yifan Yang ⋅ Huynh Thi Thanh Binh*
+- **When Plans Collide: Joint Planning in LLM Negotiation Dyads**  
+*Yiheng Yao ⋅ Chelsea Zou ⋅ Robert Hawkins*
+- **BaRA: BFS-and-Reflection Web Data Collection Agent**  
+*Soojeong Lee ⋅ Joseph Lee ⋅ Yongseong Cho ⋅ Sunjae Kim ⋅ Youngwoo Moon ⋅ Kyungwoo Song*
+- **QueryWeaver: Reliable Multi-Tool Query Execution Planning via LLM-Based Graph Generation**   
+*Aishwarya Chakravarthy ⋅ Vidhi Kulkarni ⋅ Polo Chau*
+- **ICPRL: Acquiring Physical Intuition from Interactive Control**   
+*Xinrun Xu ⋅ Pi Bu ⋅ Ye Wang ⋅ Börje F. Karlsson ⋅ Ziming Wang ⋅ Tengtao Song ⋅ Qi Zhu ⋅ Jun Song ⋅ Shuo Zhang ⋅ Zhingming Ding ⋅ Bo Zheng*
+- **OrigamiBench: An Interactive Environment to Synthesize Flat-Foldable Origamis**  
+*Naaisha Agarwal ⋅ Yihan Wu ⋅ Yichang Jian ⋅ Yikuan Hu ⋅ Nishad Mansoor ⋅ Mohan Li ⋅ Yifei Peng ⋅ Wang-Zhou Dai ⋅ Yao-Xiang Ding ⋅ Emanuele Sansone*
+- **End-to-End LLM Flight Planning with RAG-based Memory and Multi-modal Coach Agent**  
+*Amin Tabrizian ⋅ Arsyi Aziz ⋅ Aarifah Ullah⋅ Mahyar Ghazanfari ⋅ Pouria Razzaghi ⋅ Peng Wei*
+- **LaGO: Latent Action Guidance for Online Reinforcement Learning**   
+*Kuanyen Liu ⋅ Renjyun Huang ⋅ Ti-Rong Wu*
+- **When in Doubt, Plan It Out: Committed Small Language Model Deliberation for Reactive Reinforcement Learning**  
+*Nathan Gavenski ⋅ Juarez Monteiro ⋅ Francisco Galuppo Azevedo ⋅ Adriano Veloso ⋅ Odinaldo Rodrigues* 
+- **Specialized LM Agents with Simulation-Verified Search for Service Workforce Planning**  
+*Vivek Singh ⋅ Santosh Pai ⋅ Sarith Mohan ⋅ Chetan L Srinidhi ⋅ Azra Aziz ⋅ Sean Cohen ⋅ Neil Biehn ⋅ Maik Kuehnhoff*
+- **IDP-MCTS Empowering Small Language Models for Automated MILP Modeling and Code Generation in Flexible Job Shop Scheduling**  
+*Mingming Peng ⋅ Jin Huang ⋅ Qihao Liu ⋅ Liang GAO ⋅ Xinyu Li*
+- **Theory of Mind Beyond Conversational Persuasion: Assessing the Capacity of LLMs to Induce Belief States via Planning and Action**  
+*Ben Slater ⋅ Matteo G Mecattaf ⋅ Lucy G Cheke ⋅ John Burden ⋅ Winnie Street*
+- **SafeRun: Enabling Determinism in LLM Planning for Running**  
+*Meilin Chen ⋅ Zepeng Zhai ⋅ Jiaxuan Zhao ⋅ Yuan Lu*
+- **LM-Landmarks: Language Model Guided Landmark Generation for Classical Planning with Formal Soundness Guarantees**  
+*Kaustubh Bukkapatnam ⋅ Siddharth Karuturi*
+- **Hierarchical Chain-of-Thought: Enhancing LLM Reasoning Performance and Efficiency**  
+*Xingshuai Huang ⋅ Derek Li ⋅ Bahareh Nikpour ⋅ Parsa Omidi*
+- **The Orchestrator Bottleneck: Formal Coordination Strategies for Cost-Optimal Multi-Agent Enterprise Workflows**   
+*Rudrendu Kumar Paul ⋅ Sourav Nandy*
+- **Multi-Pass LLM Compilation for HTN Domain Authoring**   
+*Eliott Jacopin ⋅ Éric Jacopin ⋅ Koichi Takahashi*
+- **LLM-Guided Transportation Hub Capacity Planning with Textual Business Inputs**   
+*Xiaoyue Liu ⋅ Zheng Dong*
+- **Generating Robust Portfolios of Optimization Models using Large Language Models**  
+*Eleni Straitouri ⋅ Cheol Kim ⋅ Milind Tambe*
+- **HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents**  
+*Jiangweizhi Peng ⋅ Yuanxin Liu ⋅ Ruida Zhou ⋅ Charles Fleming ⋅ Zhaoran Wang ⋅ Alfredo Garcia ⋅ Mingyi Hong*
+- **Calibrate Once, Choose the Beam: A Predictive Regime Test for Same-LM Search Guidance and Pruning**   
+*Jiahui Qu ⋅ Yifang Qin ⋅ BOYANG ZHENG ⋅ Ziyi Zhou*
+- **UniDesigner: Language Models as Unified Planners for Agentic Design**   
+*Zhouqiang Jiang ⋅ Bowen Wang ⋅ Shuqiong Wu ⋅ Yuta Nakashima*
+- **RELIC: Revealed Principles for Learning Interpretable Composable Skills in Multi-Agent Planning**   
+*Tuan-Kiet Nguyen-Viet ⋅ Pham Bui Dinh ⋅ Chính Dương ⋅ Tung Dao ⋅ Cong D Tran ⋅ Huynh Thi Thanh Binh*
+- **ReTreVal: Reasoning Tree with Validation and Cross-Problem Memory for Large Language Models**   
+*Abhishek HS ⋅ Pavan C Shekar ⋅ Aswanth Krishnan ⋅ Arpit Jain*
+- **Reward Prediction with Factorized World States**   
+*Yijun Shen ⋅ Delong Chen ⋅ Xianming Hu ⋅ Jiaming Mi ⋅ Hongbo Zhao ⋅ Kai Zhang ⋅ Pascale Fung*
+- **AgentRouter: Heterogeneous Model Routing for Cost-Optimal Multi-Step Agentic Workflows**   
+*Rudrendu Kumar Paul ⋅ Sourav Nandy*
 
 
 ### Topics of Interest
