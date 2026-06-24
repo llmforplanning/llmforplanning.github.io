@@ -75,11 +75,11 @@ Talk length is shown in the last column in minutes. Paper talks are 10 min prese
 
 | Time | Paper | Authors | Len |
 |:-----|:------|:--------|:----|
-| 9:05 | [Semantic Partial Grounding via LLMs](https://icaps26.icaps-conference.org/files/workshops/lm4plan/1_Semantic_Partial_Grounding_v.pdf) | Giuseppe Canonaco, Alberto Pozanco, Daniel Borrajo | 15 |
-| 9:20 | [Benchmarking LLM Pipelines for Natural Language to Automated Planning Models](https://icaps26.icaps-conference.org/files/workshops/lm4plan/6_Benchmarking_LLM_Pipelines_f.pdf) | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
-| 9:35 | [Grounded Evaluation and Repair for NL-to-PDDL Problem Generation](https://icaps26.icaps-conference.org/files/workshops/lm4plan/20_Grounded_Evaluation_and_Rep.pdf) | Joana Rosa, Bruno Martins, L. Miguel Silveira, Pedro Ricardo Leitão dos Santos | 15 |
-| 9:50 | [Towards LLM-Driven Synthesis of Narrative Planning Models](https://icaps26.icaps-conference.org/files/workshops/lm4plan/17_Towards_LLM_Driven_Synthesi-1.pdf) | Allix Fletcher, Christian Muise | 15 |
-| 10:05 | [A Natural Language Copilot for Interactive Plan Space Exploration](https://icaps26.icaps-conference.org/files/workshops/lm4plan/19_A_Natural_Language_Copilot_-1.pdf) | Paul Horn, Daniel Gnad | 15 |
+| 9:05 | [Semantic Partial Grounding via LLMs](https://openreview.net/pdf?id=lB3lTToxjI) | Giuseppe Canonaco, Alberto Pozanco, Daniel Borrajo | 15 |
+| 9:20 | [Benchmarking LLM Pipelines for Natural Language to Automated Planning Models](https://openreview.net/pdf?id=jZgdDSqa4i) | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
+| 9:35 | [Grounded Evaluation and Repair for NL-to-PDDL Problem Generation](https://openreview.net/pdf?id=3AV7BqAbmr) | Joana Rosa, Bruno Martins, L. Miguel Silveira, Pedro Ricardo Leitão dos Santos | 15 |
+| 9:50 | [Towards LLM-Driven Synthesis of Narrative Planning Models](https://openreview.net/pdf?id=UeplY5mKNC) | Allix Fletcher, Christian Muise | 15 |
+| 10:05 | [A Natural Language Copilot for Interactive Plan Space Exploration](https://openreview.net/pdf?id=nuJqdnzlWZ) | Paul Horn, Daniel Gnad | 15 |
 
 **Coffee break - 10:30-10:50**
 
@@ -87,12 +87,12 @@ Talk length is shown in the last column in minutes. Paper talks are 10 min prese
 
 | Time | Paper | Authors | Len |
 |:-----|:------|:--------|:----|
-| 10:50 | [FABLE: A Novel Data-Flow Analysis Benchmark on Procedural Text for Large Language Model Evaluation](https://icaps26.icaps-conference.org/files/workshops/lm4plan/4_FABLE_A_Novel_Data_Flow_Anal.pdf) | Vishal Pallagani, Nitin Gupta, John A. Aydin, Biplav Srivastava | 15 |
-| 11:05 | [ALPSBench: Can Large Language Models Reason Their Way Through Planning Formalisms?](https://icaps26.icaps-conference.org/files/workshops/lm4plan/5_ALPSBench_Can_Large_Language.pdf) | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
-| 11:20 | [On the Ability of Transformers to Verify Plans](https://icaps26.icaps-conference.org/files/workshops/lm4plan/10_On_the_Ability_of_Transform.pdf) | Yash Sarrof, Yupei Du, Katharina Stein, Alexander Koller, Sylvie Thiebaux, Michael Hahn | 15 |
-| 11:35 | [Toward a General Framework for Evaluating Per-Domain Generalization Using LLMs, Theorem Provers, and Statistical Model Checking](https://icaps26.icaps-conference.org/files/workshops/lm4plan/12_Toward_a_General_Framework_-1.pdf) | Nicola J. Müller, Naya Rudolph, Ayal Taitler, Timo P. Gros | 15 |
-| 11:50 | [Integrating the Unified Planning Framework via MCP with Large Language Models for Reliable Automated Planning](https://icaps26.icaps-conference.org/files/workshops/lm4plan/8_Integrating_the_Unified_Plan.pdf) | João Areias Saraiva, Thomas Kirste | 15 |
-| 12:05 | [Learning HTNs from Visual Demonstration with Vision-Language Models: Preliminary Results](https://icaps26.icaps-conference.org/files/workshops/lm4plan/7_Learning_HTNs_from_Visual_De.pdf) | Ngoc La, Karthik Mahadevan, Pulkit Verma, Julie Shah | 15 |
+| 10:50 | [FABLE: A Novel Data-Flow Analysis Benchmark on Procedural Text for Large Language Model Evaluation](https://openreview.net/pdf?id=0wpv2zv9Wh) | Vishal Pallagani, Nitin Gupta, John A. Aydin, Biplav Srivastava | 15 |
+| 11:05 | [ALPSBench: Can Large Language Models Reason Their Way Through Planning Formalisms?](https://openreview.net/pdf?id=VBmog6iDeg) | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
+| 11:20 | [On the Ability of Transformers to Verify Plans](https://openreview.net/pdf?id=GuzM1kU7ZD) | Yash Sarrof, Yupei Du, Katharina Stein, Alexander Koller, Sylvie Thiebaux, Michael Hahn | 15 |
+| 11:35 | [Toward a General Framework for Evaluating Per-Domain Generalization Using LLMs, Theorem Provers, and Statistical Model Checking](https://openreview.net/pdf?id=MLnzKKBdT4) | Nicola J. Müller, Naya Rudolph, Ayal Taitler, Timo P. Gros | 15 |
+| 11:50 | [Integrating the Unified Planning Framework via MCP with Large Language Models for Reliable Automated Planning](https://openreview.net/pdf?id=1gOoUkQ988) | João Areias Saraiva, Thomas Kirste | 15 |
+| 12:05 | [Learning HTNs from Visual Demonstration with Vision-Language Models: Preliminary Results](https://openreview.net/pdf?id=wp0oKZvqrt) | Ngoc La, Karthik Mahadevan, Pulkit Verma, Julie Shah | 15 |
 
 **Lunch break - 12:30-14:00**
 
@@ -102,11 +102,11 @@ Talk length is shown in the last column in minutes. Paper talks are 10 min prese
 
 | Time | Paper | Authors | Len |
 |:-----|:------|:--------|:----|
-| 14:00 | [LLM-Evolved Domain-Independent Heuristics for Symbolic AI Planning](https://icaps26.icaps-conference.org/files/workshops/lm4plan/9_LLM_Evolved_Domain_Independe.pdf) | Elliot Gestrin, Jendrik Seipp | 15 |
-| 14:15 | [Personalized Medication Planning via Direct Domain Modeling and LLM-Generated Heuristics](https://icaps26.icaps-conference.org/files/workshops/lm4plan/16_Personalized_Medication_Pla.pdf) | Yonatan Vernik, David Izhaki, Alexander Tuisov, Hana Weitman, Alexander Shleyfman, Gal Kaminka | 15 |
-| 14:30 | [Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents](https://icaps26.icaps-conference.org/files/workshops/lm4plan/11_Learning_and_Reusing_Policy.pdf) | Shirin Sohrabi, Haritha Ananthakrishnan, Harsha Kokel, Kavitha Srinivas, Michael Katz | 15 |
-| 14:45 | [Think Hierarchically, Act Optimally: Decoupled Hierarchical Planning and Execution for LLM Agents](https://icaps26.icaps-conference.org/files/workshops/lm4plan/18_Think_Hierarchically_Act_Op.pdf) | Vikas Kumar, Jyotsana Khatri, Shirish Karande | 15 |
-| 15:00 | [The Curious Case of Planning for Unreliable Agents: Challenges and Opportunities in Orchestrating Generative AI Agents](https://icaps26.icaps-conference.org/files/workshops/lm4plan/14_The_Curious_Case_of_Plannin.pdf) | Roya Daneshi, Sunandita Patra, Kshama Dwarakanath, Sriram Gopalakrishnan, Daniel Borrajo, Sarath Sreedharan | 15 |
+| 14:00 | [LLM-Evolved Domain-Independent Heuristics for Symbolic AI Planning](https://openreview.net/pdf?id=6qYhouFPu8) | Elliot Gestrin, Jendrik Seipp | 15 |
+| 14:15 | [Personalized Medication Planning via Direct Domain Modeling and LLM-Generated Heuristics](https://openreview.net/pdf?id=NJ1UdoGQOw) | Yonatan Vernik, David Izhaki, Alexander Tuisov, Hana Weitman, Alexander Shleyfman, Gal Kaminka | 15 |
+| 14:30 | [Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents](https://openreview.net/pdf?id=80MufbYNbp) | Shirin Sohrabi, Haritha Ananthakrishnan, Harsha Kokel, Kavitha Srinivas, Michael Katz | 15 |
+| 14:45 | [Think Hierarchically, Act Optimally: Decoupled Hierarchical Planning and Execution for LLM Agents](https://openreview.net/pdf?id=Vl5heKm6sx) | Vikas Kumar, Jyotsana Khatri, Shirish Karande | 15 |
+| 15:00 | [The Curious Case of Planning for Unreliable Agents: Challenges and Opportunities in Orchestrating Generative AI Agents](https://openreview.net/pdf?id=GURELu766r) | Roya Daneshi, Sunandita Patra, Kshama Dwarakanath, Sriram Gopalakrishnan, Daniel Borrajo, Sarath Sreedharan | 15 |
 
 **Coffee break - 15:30-15:50**
 

@@ -57,8 +57,8 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 ### Current Editions
 
 <div class="button-container">
-  <a href="https://llmforplanning.github.io/ICML26/" class="button-link">LM4Plan @ ICML 2026</a>
-  <a href="https://llmforplanning.github.io/ICAPS26/" class="button-link">LM4Plan @ ICAPS 2026</a>
+  <a href="{{ "/ICML26/" | relative_url }}" class="button-link">LM4Plan @ ICML 2026</a>
+  <a href="{{ "/ICAPS26/" | relative_url }}" class="button-link">LM4Plan @ ICAPS 2026</a>
 </div>
 
 <!-- * [LM4Plan @ ICML 2026](https://llmforplanning.github.io/ICML26/) 
