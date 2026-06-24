@@ -69,7 +69,9 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 
 **Camera-ready**
 * The camera-ready papers should be submitted by updating your paper on OpenReview and the same page limit applies as for the submissions, i.e. 4 pages for short papers and 8 pages for long papers, plus unlimited pages of references and supplementary material.
-* As the workshop is non-archival, there will not be any proceedings.
+* As the workshop is non-archival, there will not be any proceedings. 
+* Also, the workshop papers do **not** count as ICML conference papers so please make sure to update the copyright footnote accordingly.
+* If your using the 2026 ICML Style file, please update Line 159 of the icml2026.sty file with the following workshop-specific text:"\textit{Accepted to the 4th Workshop on Planning in the Era of LLMs}, LM4Plan@ICML 2026, Seoul, South Korea. Copyright 2026 by the author(s)."
 
 
 
