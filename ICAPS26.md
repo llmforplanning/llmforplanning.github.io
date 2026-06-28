@@ -71,10 +71,13 @@ Talk length is shown in the last column in minutes. Paper talks are 10 min prese
 
 #### Morning
 
-**Session 1 - 9:00-10:20** (9:00 - Opening remarks)
+**Session 1 - 9:00-10:20   Chair: Elliot Gestrin** 
+<!-- (9:00 - Opening remarks) -->
 
 | Time | Paper | Authors | Len |
 |:-----|:------|:--------|:----|
+| 9:00 | Opening remarks | Michael Katz | 5 |
+
 | 9:05 | [Semantic Partial Grounding via LLMs](https://openreview.net/pdf?id=lB3lTToxjI) | Giuseppe Canonaco, Alberto Pozanco, Daniel Borrajo | 15 |
 | 9:20 | [Benchmarking LLM Pipelines for Natural Language to Automated Planning Models](https://openreview.net/pdf?id=jZgdDSqa4i) | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
 | 9:35 | [Grounded Evaluation and Repair for NL-to-PDDL Problem Generation](https://openreview.net/pdf?id=3AV7BqAbmr) | Joana Rosa, Bruno Martins, L. Miguel Silveira, Pedro Ricardo Leitão dos Santos | 15 |
@@ -83,7 +86,7 @@ Talk length is shown in the last column in minutes. Paper talks are 10 min prese
 
 **Coffee break - 10:30-10:50**
 
-**Session 2 - 10:50-12:20**
+**Session 2 - 10:50-12:20   Chair: Nir Lipovetzky**
 
 | Time | Paper | Authors | Len |
 |:-----|:------|:--------|:----|
@@ -98,19 +101,19 @@ Talk length is shown in the last column in minutes. Paper talks are 10 min prese
 
 #### Afternoon
 
-**Session 3 - 14:00-15:15**
+**Session 3 - 14:00-15:15   Chair: Katharina Stein**
 
 | Time | Paper | Authors | Len |
 |:-----|:------|:--------|:----|
 | 14:00 | [LLM-Evolved Domain-Independent Heuristics for Symbolic AI Planning](https://openreview.net/pdf?id=6qYhouFPu8) | Elliot Gestrin, Jendrik Seipp | 15 |
 | 14:15 | [Personalized Medication Planning via Direct Domain Modeling and LLM-Generated Heuristics](https://openreview.net/pdf?id=NJ1UdoGQOw) | Yonatan Vernik, David Izhaki, Alexander Tuisov, Hana Weitman, Alexander Shleyfman, Gal Kaminka | 15 |
 | 14:30 | [Learning and Reusing Policy Decompositions for Hierarchical Generalized Planning with LLM Agents](https://openreview.net/pdf?id=80MufbYNbp) | Shirin Sohrabi, Haritha Ananthakrishnan, Harsha Kokel, Kavitha Srinivas, Michael Katz | 15 |
-| 14:45 | [Think Hierarchically, Act Optimally: Decoupled Hierarchical Planning and Execution for LLM Agents](https://openreview.net/pdf?id=Vl5heKm6sx) | Vikas Kumar, Jyotsana Khatri, Shirish Karande | 15 |
-| 15:00 | [The Curious Case of Planning for Unreliable Agents: Challenges and Opportunities in Orchestrating Generative AI Agents](https://openreview.net/pdf?id=GURELu766r) | Roya Daneshi, Sunandita Patra, Kshama Dwarakanath, Sriram Gopalakrishnan, Daniel Borrajo, Sarath Sreedharan | 15 |
+| 14:45 | [The Curious Case of Planning for Unreliable Agents: Challenges and Opportunities in Orchestrating Generative AI Agents](https://openreview.net/pdf?id=GURELu766r) | Roya Daneshi, Sunandita Patra, Kshama Dwarakanath, Sriram Gopalakrishnan, Daniel Borrajo, Sarath Sreedharan | 15 |
+| 15:00 | [Think Hierarchically, Act Optimally: Decoupled Hierarchical Planning and Execution for LLM Agents](https://openreview.net/pdf?id=Vl5heKm6sx) | Vikas Kumar, Jyotsana Khatri, Shirish Karande | 15 |
 
 **Coffee break - 15:30-15:50**
 
-**Session 4 - 15:50-17:30**
+**Session 4 - 15:50-17:30   Chair: Augusto B. Corrêa**
 
 | Time | Item | Speaker | Len |
 |:-----|:-----|:--------|:----|
