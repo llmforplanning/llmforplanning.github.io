@@ -77,7 +77,6 @@ Talk length is shown in the last column in minutes. Paper talks are 10 min prese
 | Time | Paper | Authors | Len |
 |:-----|:------|:--------|:----|
 | 9:00 | Opening remarks | Michael Katz | 5 |
-
 | 9:05 | [Semantic Partial Grounding via LLMs](https://openreview.net/pdf?id=lB3lTToxjI) | Giuseppe Canonaco, Alberto Pozanco, Daniel Borrajo | 15 |
 | 9:20 | [Benchmarking LLM Pipelines for Natural Language to Automated Planning Models](https://openreview.net/pdf?id=jZgdDSqa4i) | Marcus Tantakoun, Christian Muise, Xiaodan Zhu | 15 |
 | 9:35 | [Grounded Evaluation and Repair for NL-to-PDDL Problem Generation](https://openreview.net/pdf?id=3AV7BqAbmr) | Joana Rosa, Bruno Martins, L. Miguel Silveira, Pedro Ricardo Leitão dos Santos | 15 |
@@ -118,7 +117,7 @@ Talk length is shown in the last column in minutes. Paper talks are 10 min prese
 | Time | Item | Speaker | Len |
 |:-----|:-----|:--------|:----|
 | 15:50 | Invited talk: LLMs don't even need to plan — they can build planners | Jendrik Seipp | 50 |
-| 16:40 | Panel discussion and closing remarks |  | 50 |
+| 16:40 | Panel discussion and closing remarks | Moderator: Christian Muise, Panelists: Jendrik Seipp, Katharina Stein, Nir Lipovetzky | 50 |
 
 ### Accepted Papers
 
