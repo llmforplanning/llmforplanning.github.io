@@ -65,6 +65,29 @@ All submissions must be anonymized and may not contain any identifying informati
 **Reciprocal reviewing**<br>
 Depending on the number of submissions, we may adopt a reciprocal reviewing process. For each submission, one reciprocal reviewer needs to be nominated who agrees to serve as a reviewer if reciprocal reviewing is implemented. Each nominated reviewer must have at least one relevant publication at a top venue and cannot be nominated as a reviewer for more than one submission.
 
+### Invited Talk
+
+#### LLMs don't even need to plan — they can build planners
+
+<img src="{{ '/assets/img/speakers/jendrik.jpg' | relative_url }}"
+     alt="Jendrik Seipp"
+     width="220"
+     style="float: right; margin: 0.2rem 0 1rem 1.5rem; border-radius: 8px;">
+
+**[Jendrik Seipp](https://mrlab.ai/jendrik-seipp/), Linköping University**
+
+📄 [Slides]({{ '/assets/pdf/seipp-lm4plan2026-talk.pdf' | relative_url }}) &nbsp;·&nbsp; ▶️ [Watch the talk](https://www.youtube.com/watch?v=ECBiQsFxYpo)
+
+**Abstract**
+
+For years, LLMs couldn't reliably solve even the smallest planning tasks. That has changed: we recently showed that the latest frontier models now beat even the strongest classical planners on several benchmark domains. Using an LLM as the planner is still rarely the best choice. Having it build planner components instead is faster, cheaper, and far less energy-hungry. I show how to do this while keeping the guarantees that make classical planning worth using, like optimality and bounded runtime. And it doesn't stop at planners. Agents can now carry out research largely on their own, and I'll close with some thoughts on what that means for how we work as researchers.
+
+**Speaker Bio**
+
+Jendrik Seipp is a Senior Associate Professor in Artificial Intelligence at Linköping University, Sweden, where he directs the Machine Reasoning Lab within the AIICS division. His research focuses on AI planning and its connections to machine learning. He earned his MSc in computer science from the University of Freiburg, Germany (2012) and his PhD from the University of Basel, Switzerland (2018), where he then worked as a postdoctoral researcher until 2020. He joined Linköping University as an assistant professor in 2021 and was promoted to senior associate professor in 2024. His work is supported by WASP, a Swedish Research Council Starting Grant, a Wallenberg Academy Fellowship, and an SSF Future Research Leaders grant.
+
+<div style="clear: both;"></div>
+
 ### Schedule
 
 Talk length is shown in the last column in minutes. Paper talks are 10 min presentation + 5 min Q&A.
@@ -116,7 +139,7 @@ Talk length is shown in the last column in minutes. Paper talks are 10 min prese
 
 | Time | Item | Speaker | Len |
 |:-----|:-----|:--------|:----|
-| 15:50 | Invited talk: LLMs don't even need to plan — they can build planners | Jendrik Seipp | 50 |
+| 15:50 | Invited talk: [LLMs don't even need to plan — they can build planners]({{ '/assets/pdf/seipp-lm4plan2026-talk.pdf' | relative_url }}) ([video](https://www.youtube.com/watch?v=ECBiQsFxYpo)) | Jendrik Seipp | 50 |
 | 16:40 | Panel discussion and closing remarks | Moderator: Christian Muise, Panelists: Jendrik Seipp, Katharina Stein, Nir Lipovetzky | 50 |
 
 ### Accepted Papers
