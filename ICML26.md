@@ -35,7 +35,7 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 | 08:05–08:50 | **Invited talk**|*Samy Bengio*: Reasoning with LLMs: Challenges and Opportunities|
 | 08:50–09:35 | **Invited talk**|*Nathan Sturtevant*: LLM Planning Success|
 | 09:35–10:00 | Coffee break ||
-| 10:00–10:45 | **Invited talk**|*Subbarao Kambhampati*: TBD|
+| 10:00–10:45 | **Invited talk**|*Subbarao Kambhampati*: (How) Do LLMs Plan?: A Sober Look|
 | 10:45–11:30 | **Invited talk**|*Elias Bareinboim*: Towards Causal Artificial Intelligence|
 | 11:30–11:40 | buffer||
 | 11:40–12:00 | *Oral presentations*|LM-Landmarks: Language Model Guided Landmark Generation for Classical Planning with Formal Soundness Guarantees|
