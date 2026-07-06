@@ -20,7 +20,8 @@ img: elias.jpeg
 **Bio**: 
 Elias Bareinboim is an Associate Professor in the Department of Computer Science and the Department of Biomedical Informatics at Columbia University, where he directs the Causal Artificial Intelligence (CausalAI) Lab. His research focuses on causal and counterfactual inference and their applications to artificial intelligence, machine learning, and data science. He is a recipient of the NSF CAREER Award, the Dan David Prize Scholarship, and the IJCAI Computers and Thought Award.
 
-**Talk**: Towards Causal Artificial Intelligence<br>
+**Talk**: Towards Causal Artificial Intelligence
+
 While a significant portion of AI scientists and engineers
 believe we are on the verge of achieving highly general forms of AI, I
 offer a critical appraisal of this view through a causal lens. In
@@ -41,5 +42,4 @@ should expect from an intelligent AI system:
 In this talk, I will elaborate on this perspective and share current
 progress toward building causally intelligent AI systems. A more
 detailed discussion of this thesis is provided in my forthcoming
-textbook, a draft of which is available here:
-https://urldefense.proofpoint.com/v2/url?u=https-3A__causalai-2Dbook.net_&d=DwIFaQ&c=BSDicqBQBDjDI9RkVyTcHQ&r=QXqf7M6Mt-8N49HP5wCevKGChwr6XhPpzu6x1URGLy8&m=0Jj8a8G0mRUfFehF118-l8TEjRwKMQ8lhLwdJntoXugMiQSZsusB4xbO48c-DBw-&s=28EbzSHK4ygMjqrdyBOU0dTBagWmoQR2T2TEUxzJ1YE&e= .
+textbook, a draft of which is available [here](https://urldefense.proofpoint.com/v2/url?u=https-3A__causalai-2Dbook.net_&d=DwIFaQ&c=BSDicqBQBDjDI9RkVyTcHQ&r=QXqf7M6Mt-8N49HP5wCevKGChwr6XhPpzu6x1URGLy8&m=0Jj8a8G0mRUfFehF118-l8TEjRwKMQ8lhLwdJntoXugMiQSZsusB4xbO48c-DBw-&s=28EbzSHK4ygMjqrdyBOU0dTBagWmoQR2T2TEUxzJ1YE&e=).
