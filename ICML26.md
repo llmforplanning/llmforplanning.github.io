@@ -32,9 +32,7 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 | Time | Event | Details |
 |-------------|-----------------|-----------------|
 | 08:00–08:05 | Opening remarks | Katharina Stein |
-| 08:05–08:50 | **Invited talk**|*Samy Bengio*: Reasoning with LLMs: Challenges and Opportunities <br><br><details><summary>Abstract</summary>
-In this presentation, I will go over a few recent topics towards understanding the limits of reasoning capabilities of large language models. I will start with a discussion on what is reasoning, provide a few negative results showing limits regarding math problems and logic puzzles, and then follow up with a few more constructive approaches that can improve reasoning capabilities of LLMs.
-</details>|
+| 08:05–08:50 | **Invited talk**|*Samy Bengio*: Reasoning with LLMs: Challenges and Opportunities|
 | 08:50–09:35 | **Invited talk**|*Nathan Sturtevant*: LLM Planning Success|
 | 09:35–10:00 | Coffee break ||
 | 10:00–10:45 | **Invited talk**|*Subbarao Kambhampati*: (How) Do LLMs Plan?: A Sober Look|
@@ -55,6 +53,72 @@ In this presentation, I will go over a few recent topics towards understanding t
 | 16:00–17:00 | Poster session |**Hall A**, boards 1104–1115 and 1200–1201|
 
 
+
+### Invited Talks
+
+#### Elias Bareinboim:
+**Title:** Towards Causal Artificial Intelligence
+
+**Abstract:**  
+While a significant portion of AI scientists and engineers
+believe we are on the verge of achieving highly general forms of AI, I
+offer a critical appraisal of this view through a causal lens. In
+particular, building on foundational developments in the field, I will
+present my perspective on the relationship between intelligence and
+causality, and the central role of the latter in building intelligent
+systems and advancing credible data science.
+
+I frame this discussion in terms of five core capabilities that we
+should expect from an intelligent AI system:
+
+1. Performing causal reasoning and articulating explanations;
+2. Making precise, surgical, and sample-efficient decisions;
+3. Generalizing across changing conditions and environments;
+4. Generating and simulating in a causally consistent manner; and
+5. Learning causal structures and variables.
+
+In this talk, I will elaborate on this perspective and share current
+progress toward building causally intelligent AI systems. A more
+detailed discussion of this thesis is provided in my forthcoming
+textbook, a draft of which is available here:
+https://urldefense.proofpoint.com/v2/url?u=https-3A__causalai-2Dbook.net_&d=DwIFaQ&c=BSDicqBQBDjDI9RkVyTcHQ&r=QXqf7M6Mt-8N49HP5wCevKGChwr6XhPpzu6x1URGLy8&m=0Jj8a8G0mRUfFehF118-l8TEjRwKMQ8lhLwdJntoXugMiQSZsusB4xbO48c-DBw-&s=28EbzSHK4ygMjqrdyBOU0dTBagWmoQR2T2TEUxzJ1YE&e= .
+
+
+
+#### Samy Bengio
+
+**Title:**  Reasoning with LLMs: Challenges and Opportunities
+
+**Abstract:** 
+In this presentation, I will go over a few recent topics towards understanding the limits of reasoning capabilities of large language models. I will start with a discussion on what is reasoning, provide a few negative results showing limits regarding math problems and logic puzzles, and then follow up with a few more constructive approaches that can improve reasoning capabilities of LLMs.
+
+
+#### Nathan Sturtevant
+
+**Title:**  LLM Planning Success
+
+**Abstract:** 
+Recent literature has shown that LMs cannot reliably plan, especially in comparison to classical planners and planning languages such as PDDL. At the same time, other work has shown that LMs are Turing complete, functionally equivalent to the computers on which they run. In this talk we present our study of this gap. We show how we are able to train LMs and achieve 99% or higher success rates across a range of planning problems such as Towers of Hanoi and Blocksworld variants on which other approaches have failed to scale. Our analysis shows where LMs are able to generalize and some cases where they are not.
+
+
+#### Noam Brown
+
+**Title:**  Implications of Large-Scale Test-Time Compute
+
+**Abstract:** 
+As LLMs become more capable, their performance increasingly depends on the amount of test-time compute used. This talk argues that single-number benchmarks obscure both capability and safety-relevant trends, especially as longer chains of thought, scaffolds, and multi-agent methods push performance higher with more inference. I will close with proposals for evaluating models using performance-vs-compute curves and updating benchmarks and preparedness frameworks to account for realistic high-compute use.
+
+#### Yarin Gal
+
+**Title:**  Model Collapse and its Implications on Planning with LLMs
+
+**Abstract:**  TBD
+
+#### Subbarao Kambhampati
+
+**Title:**  (How) Do LLMs Plan?: A Sober Look
+
+**Abstract:**  TBD
 
 
 
