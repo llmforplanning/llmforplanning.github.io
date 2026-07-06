@@ -32,7 +32,9 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 | Time | Event | Details |
 |-------------|-----------------|-----------------|
 | 08:00–08:05 | Opening remarks | Katharina Stein |
-| 08:05–08:50 | **Invited talk**|*Samy Bengio*: Reasoning with LLMs: Challenges and Opportunities|
+| 08:05–08:50 | **Invited talk**|*Samy Bengio*: Reasoning with LLMs: Challenges and Opportunities <br><br><details><summary>Abstract</summary>
+In this presentation, I will go over a few recent topics towards understanding the limits of reasoning capabilities of large language models. I will start with a discussion on what is reasoning, provide a few negative results showing limits regarding math problems and logic puzzles, and then follow up with a few more constructive approaches that can improve reasoning capabilities of LLMs.
+</details>|
 | 08:50–09:35 | **Invited talk**|*Nathan Sturtevant*: LLM Planning Success|
 | 09:35–10:00 | Coffee break ||
 | 10:00–10:45 | **Invited talk**|*Subbarao Kambhampati*: (How) Do LLMs Plan?: A Sober Look|
@@ -53,26 +55,11 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 | 16:00–17:00 | Poster session |**Hall A**, boards 1104–1115 and 1200–1201|
 
 
+
+
+
 ### Important information for authors of accepted papers
-* The workshop will be an **in-person** event and you need to have a registration at least for the ICML workshops.
-
-**Poster presentations**
-* Every accepted paper will be presented as a poster during the poster session
-* The poster session takes place in Hall A and every accepted paper will be presented as a poster during the poster session
-* Our workshop is assigned the boards 1104–1115 and 1200–1201 and you can put your poster at any of the assigned boards (see attached plan of Hall A). * Please note that there will be **2 posters per board**. Please make sure to leave enough space for your neighbor's poster when putting up your poster.
-* Your poster **must** adhere to the following size constraints: portrait format, 36 in (H) x 24 in (W) or 91 cm (H) x 61 cm (W). (Note this is different from the main conference poster size.)
-
-**Selected oral presentations**
-* Six of the accepted papers were selected for an oral presentatoin
-* The presentations should consist of 7 minutes of presentation followed by 3 minutes for questions.
-* We will run all presentations from a single machine. Therefore, please send your slides to llmforplanning@gmail.com at least one day in advance, by 7:00 AM Seoul time on July 10, as a pdf (preferred) or a pptx file (less than 10MB).
-
-**Camera-ready**
-* The camera-ready papers should be submitted by updating your paper on OpenReview and the same page limit applies as for the submissions, i.e. 4 pages for short papers and 8 pages for long papers, plus unlimited pages of references and supplementary material.
-* As the workshop is non-archival, there will not be any proceedings. 
-* Also, the workshop papers do **not** count as ICML conference papers so please make sure to update the copyright footnote accordingly.
-* If your using the 2026 ICML Style file, please update Line 159 of the icml2026.sty file with the following workshop-specific text:"\textit{Accepted to the 4th Workshop on Planning in the Era of LLMs}, LM4Plan@ICML 2026, Seoul, South Korea. Copyright 2026 by the author(s)."
-
+See [here](/author_info_icml/) for important information about presentations and camera-ready paper versions.
 
 
 ### Accepted Papers
@@ -134,131 +121,9 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 *Rudrendu Kumar Paul ⋅ Sourav Nandy*
 
 
-### Topics of Interest
-We invite paper submissions on the following (not exhaustive) list of topics:
+### Submission Instruction
 
-* Planning directly with pre-trained or fine-tuned LMs.
-* Planning for LMs.
-* LMs for (partial) model elicitation.
-* LMs for generating structured planning problem descriptions.
-* LMs for search guidance or search pruning.
-* LMs for validation and verification of plans, policies, or models.
-* LMs for generalization in planning and generalized planning.
-* Using LMs as a proxy for user preferences.
-* Using LMs to develop interfaces for planning-based systems or planning-related problems.
-* Other applications of LMs in planning.
-
-
-### ​Rejected ICML Submissions Track
-We would like to offer authors of relevant submissions rejected from the main ICML 2026 track the opportunity to submit their papers to our workshop.
-
-Submission Instructions
-In addition to the regular submission requirements described below, authors must include a single PDF containing both:
-
-1. the ICML 2026 reviews and rebuttal materials, as well as  
-2. a short cover letter of no more than one page in which they may provide a final response to those reviews and describe the changes made to the paper.  
-
-Because relevance is a primary criterion for this track, we reserve the right to desk reject, without review, submissions that fall outside the topics of interest listed below.
-
-
-### Important Dates
-<!-- Paper submission deadline: **April 24th, 2026, AoE**   -->
-
-<!-- <p>Paper submission deadline: April 24th, 2026 at 23:59 Anywhere on Earth: <span id="countdown1"></span></p>
-<p>Paper acceptance notification: May 15th, 2026 at 23:59 Anywhere on Earth: <span id="countdown2"></span></p> -->
-
-<p>Paper submission deadline: April 24th, 2026 at 23:59 Anywhere on Earth:
-<div class="countdown" id="countdown1"></div>
-</p>
-
-<p>Rejected ICML Submissions Track Paper submission deadline: May 6th, 2026 at 23:59 Anywhere on Earth:
-<div class="countdown" id="countdown3"></div>
-</p>
-
-<p>Paper acceptance notification: May 22nd, 2026 at 23:59 Anywhere on Earth:
-<div class="countdown" id="countdown2"></div>
-</p>
-
-<script>
-function aoeDeadline(year, month, day, hour=23, min=59, sec=59) {
-  return Date.UTC(year, month - 1, day, hour + 12, min, sec);
-}
-
-function startCountdown(elementId, targetDateUTC) {
-  function pad(n) {
-    return n.toString().padStart(2, '0');
-  }
-
-  var el = document.getElementById(elementId);
-
-  var x = setInterval(function() {
-    var now = Date.now();
-    var distance = targetDateUTC - now;
-
-    if (distance < 0) {
-      clearInterval(x);
-      el.innerHTML = "";
-      return;
-    }
-
-    var totalSeconds = Math.floor(distance / 1000);
-
-    var weeks = Math.floor(totalSeconds / (7 * 24 * 3600));
-    var days = Math.floor((totalSeconds % (7 * 24 * 3600)) / (24 * 3600));
-    var hours = Math.floor((totalSeconds % (24 * 3600)) / 3600);
-    var minutes = Math.floor((totalSeconds % 3600) / 60);
-    var seconds = totalSeconds % 60;
-
-    el.innerHTML = `
-    <div style="display:flex; gap:10px; font-family:sans-serif;">
-        ${box(pad(weeks), "weeks")}
-        ${box(pad(days), "days")}
-        ${box(pad(hours), "hours")}
-        ${box(pad(minutes), "minutes")}
-        ${box(pad(seconds), "seconds")}
-    </div>
-    `;
-
-    function box(value, label) {
-    return `
-        <div style="background:#f3f3f3; border-radius:6px; padding:10px 12px; text-align:center; min-width:60px;">
-        <div style="font-size:20px; font-weight:bold;">${value}</div>
-        <div style="font-size:11px; color:#666; margin-top:4px;">${label}</div>
-        </div>
-    `;
-    }
-
-  }, 1000);
-}
-
-startCountdown("countdown1", aoeDeadline(2026, 4, 24));
-startCountdown("countdown2", aoeDeadline(2026, 5, 22));
-startCountdown("countdown3", aoeDeadline(2026, 5, 6));
-</script>
-
-<!-- Paper acceptance notification: **May 15th, 2026, AoE** -->
-
-
-### Submission Details
-Paper submissions should be made through [OpenReview](https://openreview.net/group?id=ICML.cc/2026/Workshop/LM4Plan).
-
-**Format**<br>
-All submissions must be a single PDF file and follow one of the formats below:
-
-**Long papers** – up to 8 pages + unlimited references / appendices  
-**Short papers** – up to 4 pages + unlimited references / appendices  
-
-Please format submissions in ICML style (see instructions in the [Author Kit](https://media.icml.cc/Conferences/ICML2026/Styles/icml2026.zip) ). 
-
-**Dual-submission and non-archival policy**<br>
-Authors submitting papers rejected from other conferences, please ensure you do your utmost to address the comments given by the reviewers. The workshop is a non-archival venue and will not have official proceedings. Workshop submissions can be subsequently or concurrently submitted to other venues.
-
-**Double-blind Reviewing policy**<br>
-All submissions must be anonymized and may not contain any identifying information that may violate the double-blind reviewing policy. Submissions and reviews will not be public. Only accepted papers will be made public.
-
-**Reciprocal reviewing**<br>
-Depending on the number of submissions, we may adopt a reciprocal reviewing process. For each submission, one reciprocal reviewer needs to be nominated who agrees to serve as a reviewer if reciprocal reviewing is implemented. Each nominated reviewer must have at least one relevant publication at a top venue and cannot be nominated as a reviewer for more than one submission. 
-
+The submission deadline has passed. For the previous instruction for submitting see [here](/submission_icml/).
 
 ### Program Committee
 To be announced.
