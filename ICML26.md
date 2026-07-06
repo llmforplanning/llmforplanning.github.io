@@ -80,8 +80,7 @@ should expect from an intelligent AI system:
 In this talk, I will elaborate on this perspective and share current
 progress toward building causally intelligent AI systems. A more
 detailed discussion of this thesis is provided in my forthcoming
-textbook, a draft of which is available here:
-
+textbook, a draft of which is available here: [https://causalai-book.net/](https://causalai-book.net/).
 
 
 
