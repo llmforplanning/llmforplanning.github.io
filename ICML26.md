@@ -35,7 +35,7 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 | 08:05–08:50 | **Invited talk**|*Samy Bengio*: Reasoning with LLMs: Challenges and Opportunities|
 | 08:50–09:35 | **Invited talk**|*Nathan Sturtevant*: LLM Planning Success|
 | 09:35–10:00 | Coffee break ||
-| 10:00–10:45 | **Invited talk**|*Subbarao Kambhampati*: (How) Do LLMs Plan?: A Sober Look|
+| 10:00–10:45 | **Invited talk**|*Subbarao Kambhampati*: On the Role of Verifiers and Thinking Traces in Reasoning Models|
 | 10:45–11:30 | **Invited talk**|*Elias Bareinboim*: Towards Causal Artificial Intelligence|
 | 11:30–11:40 | buffer||
 | 11:40–12:00 | *Oral presentations*|LM-Landmarks: Language Model Guided Landmark Generation for Classical Planning with Formal Soundness Guarantees|
@@ -115,9 +115,10 @@ As LLMs become more capable, their performance increasingly depends on the amoun
 
 #### Subbarao Kambhampati
 
-**Title:**  (How) Do LLMs Plan?: A Sober Look
+**Title:**  On the Role of Verifiers and Thinking Traces in Reasoning Models
 
-**Abstract:**  TBD
+**Abstract:**  
+Most of the recent successes of LLMs came from the application of Reasoning Models. I will provide a perspective on reasoning models in terms of verifier-based test-time scaling methods taken to post-training. From this perspective, post-training can be viewed as laboriously compiling the verifier signal into the model weights via guessed solutions to synthetic problems. Unlike standard LLMs, reasoning models also emit the so-called “thinking traces” on the way to guessing the solution. The literature has ascribed several properties to these traces–including that they provide the end user a window into the LLM’s “thinking”, and that the length of the traces is proportional to the complexity of the problem at hand. I will share results from our recent research that call these claims into question, and provide an alternate view of the role of intermediate tokens in the reasoning models. 
 
 
 
