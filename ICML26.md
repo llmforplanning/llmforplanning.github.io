@@ -39,7 +39,8 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 | 10:45–11:30 | **Invited talk**|*Elias Bareinboim*: Towards Causal Artificial Intelligence|
 | 11:30–11:40 | buffer||
 | 11:40–12:00 | *Oral presentations*|LM-Landmarks: Language Model Guided Landmark Generation for Classical Planning with Formal Soundness Guarantees|
-|||IDP-MCTS Empowering Small Language Models for Automated MILP Modeling and Code Generation in Flexible Job Shop Scheduling|
+|||AVATAR-AGENT: A Multi-Agent LLM Planning System for 3D Avatar
+Generation|
 | 12:00–13:00 | Lunch||
 | 13:00–13:45 | **Invited talk**|*Yarin Gal*: Model Collapse and its Implications on Planning with LLMs|
 | 13:45–14:30 | **Invited talk**|*Noam Brown*: Implications of Large-Scale Test-Time Compute|
