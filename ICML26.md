@@ -43,7 +43,7 @@ of the last bastions that remain standing. The focus of this workshop is on the 
 Generation|
 | 12:00–13:00 | Lunch||
 | 13:00–13:45 | **Invited talk**|*Yarin Gal*: Model Collapse and its Implications on Planning with LLMs|
-| 13:45–14:30 | **Invited talk**|*Noam Brown*: Implications of Large-Scale Test-Time Compute|
+| 13:45–14:30 | **Invited talk** (online)|*Noam Brown*: Implications of Large-Scale Test-Time Compute|
 | 14:30–14:40 | buffer||
 | 14:40–15:20 | *Oral presentations*|HiPER: Hierarchical Plan–Execute RL for Multi-Turn LLM Agents|
 |||ICPRL: Acquiring Physical Intuition from Interactive Control|
