@@ -190,6 +190,12 @@ See [here](/author_info_icml/) for important information about presentations and
 
 The submission deadline has passed. For the previous instruction for submitting see [here](/submission_icml/).
 
+### Workshop Operations Team
+Onsite operations of the workshop was supported by:
+* Markus Fritzsche
+* Martin Funkquist
+* Michael Aichmüller
+
 ### Program Committee
 To be announced.
 
